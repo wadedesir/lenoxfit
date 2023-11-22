@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/",
+    "colsTitle": "Home Pages",
+    "itemsPerCol": 5,
+    "megaMenu": true,
+    "subMenu": [
+      {
+        "id": 1.1,
+        "title": "Home Default",
+        "link": "/home-default"
+      },
+      {
+        "id": 1.2,
+        "title": "Home Digital Agency",
+        "link": "/home-digital-agency"
+      },
+      {
+        "id": 1.3,
+        "title": "Home Creative Agency",
+        "link": "/home-creative-agency"
+      },
+      {
+        "id": 1.4,
+        "title": "Home Startup",
+        "link": "/home-startup"
+      },
+      {
+        "id": 1.5,
+        "title": "Home Minimal",
+        "link": "/home-minimal"
+      },
+      {
+        "id": 1.6,
+        "title": "Home App Landing",
+        "link": "/home-app-landing"
+      },
+      {
+        "id": 1.7,
+        "title": "Home Architecture",
+        "link": "/home-architecture"
+      },
+      {
+        "id": 1.8,
+        "title": "Home Photography",
+        "link": "/home-photography"
+      },
+      {
+        "id": 1.9,
+        "title": "Home Resume",
+        "link": "/home-resume"
+      },
+      {
+        "id": 1.1,
+        "title": "Home Fitness",
+        "link": "/home-fitness"
+      },
+      {
+        "id": 1.11,
+        "title": "Home Portfolio",
+        "link": "/home-portfolio"
+      },
+      {
+        "id": 1.12,
+        "title": "Home Restaurant",
+        "link": "/home-restaurant"
+      },
+      {
+        "id": 1.13,
+        "title": "Home Fashion",
+        "link": "/home-fashion"
+      },
+      {
+        "id": 1.14,
+        "title": "Home One Page",
+        "link": "/home-one-page"
+      },
+      {
+        "id": 1.15,
+        "title": "Home Corporate Business",
+        "link": "/home-corporate-business"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pages",
+    "link": "/pages",
+    "megaMenu": false,
+    "subMenu": [
+      {
+        "id": 2.11,
+        "title": "About Us",
+        "link": "/about-us"
+      },
+      {
+        "id": 2.12,
+        "title": "About - Creative",
+        "link": "/about-creative"
+      },
+
+      {
+        "id": 2.21,
+        "title": "Services",
+        "link": "/services"
+      },
+      {
+        "id": 2.31,
+        "title": "Contact",
+        "link": "/contact"
+      },
+      {
+        "id": 2.4,
+        "title": "404 Page",
+        "link": "/404-page"
+      },
+      {
+        "id": 2.5,
+        "title": "Coming Soon",
+        "link": "/coming-soon"
+      },
+      {
+        "id": 2.9,
+        "title": "Careers",
+        "link": "/career"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Blog",
+    "link": "/blog",
+    "megaMenu": false,
+    "subMenu": [
+      {
+        "id": 3.1,
+        "title": "Blog Standard",
+        "link": "/blog-standard"
+      },
+      {
+        "id": 3.2,
+        "title": "Blog Grid",
+        "link": "/blog-grid"
+      },
+      {
+        "id": 3.3,
+        "title": "Blog Sidebar",
+        "link": "/blog-sidebar"
+      },
+      {
+        "id": 3.4,
+        "title": "Blog Masonry",
+        "link": "/blog-masonry"
+      },
+      {
+        "id": 3.5,
+        "title": "Blog Carousel",
+        "link": "/blog-carousel"
+      },
+      {
+        "id": 3.6,
+        "title": "Blog Sidebar Right",
+        "link": "/blog-sidebar-right"
+      },
+      {
+        "id": 3.7,
+        "title": "Blog Sidebar Left",
+        "link": "/blog-sidebar-left"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Portfolio",
+    "link": "/portfolio",
+    "megaMenu": false,
+    "subMenu": [
+      {
+        "id": 4.1,
+        "title": "Grid",
+        "link": "/grid",
+        "subMenu": [
+          {
+            "id": 4.11,
+            "title": "Two Columns",
+            "link": "/grid-2-columns"
+          },
+          {
+            "id": 4.12,
+            "title": "Three Columns",
+            "link": "/grid-3-columns"
+          },
+          {
+            "id": 4.13,
+            "title": "Four Columns",
+            "link": "/grid-4-columns"
+          },
+          {
+            "id": 4.14,
+            "title": "Full Width",
+            "link": "/grid-full-width"
+          }
+        ]
+      },
+      {
+        "id": 4.2,
+        "title": "Masonry",
+        "link": "/masonry",
+        "subMenu": [
+          {
+            "id": 4.21,
+            "title": "Two Columns",
+            "link": "/masonry-2-columns"
+          },
+          {
+            "id": 4.22,
+            "title": "Three Columns",
+            "link": "/masonry-3-columns"
+          },
+          {
+            "id": 4.23,
+            "title": "Four Columns",
+            "link": "/masonry-4-columns"
+          },
+          {
+            "id": 4.24,
+            "title": "Full Width",
+            "link": "/masonry-full-width"
+          }
+        ]
+      },
+      {
+        "id": 4.3,
+        "title": "Grid - Space",
+        "link": "/grid-space",
+        "subMenu": [
+          {
+            "id": 4.31,
+            "title": "Two Columns",
+            "link": "/grid-space-2-columns"
+          },
+          {
+            "id": 4.32,
+            "title": "Three Columns",
+            "link": "/grid-space-3-columns"
+          },
+          {
+            "id": 4.33,
+            "title": "Four Columns",
+            "link": "/grid-space-4-columns"
+          },
+          {
+            "id": 4.34,
+            "title": "Full Width",
+            "link": "/grid-space-full-width"
+          }
+        ]
+      },
+      {
+        "id": 4.4,
+        "title": "Masonry - Space",
+        "link": "/masonry-space",
+        "subMenu": [
+          {
+            "id": 4.41,
+            "title": "Two Columns",
+            "link": "/masonry-space-2-columns"
+          },
+          {
+            "id": 4.42,
+            "title": "Three Columns",
+            "link": "/masonry-space-3-columns"
+          },
+          {
+            "id": 4.43,
+            "title": "Four Columns",
+            "link": "/masonry-space-4-columns"
+          },
+          {
+            "id": 4.44,
+            "title": "Full Width",
+            "link": "/masonry-space-full-width"
+          }
+        ]
+      },
+      {
+        "id": 4.5,
+        "title": "Single Portfolio",
+        "link": "/single-portfolio",
+        "subMenu": [
+          {
+            "id": 4.51,
+            "title": "Single Portfolio One",
+            "link": "/single-portfolio-one"
+          },
+          {
+            "id": 4.52,
+            "title": "Single Portfolio Two",
+            "link": "/single-portfolio-two"
+          },
+          {
+            "id": 4.53,
+            "title": "Single Portfolio Three",
+            "link": "/single-portfolio-three"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Shop",
+    "link": "/shop",
+    "megaMenu": false,
+    "subMenu": [
+      {
+        "id": 5.1,
+        "title": "Shop",
+        "link": "/shop"
+      },
+      {
+        "id": 5.2,
+        "title": "Single Product",
+        "link": "/shop-product"
+      },
+      {
+        "id": 5.3,
+        "title": "Shop Cart",
+        "link": "/shop-cart"
+      },
+      {
+        "id": 5.4,
+        "title": "Shop Checkout",
+        "link": "/shop-checkout"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Elements",
+    "link": "/elements",
+    "colsTitle": "Elements",
+    "itemsPerCol": 4,
+    "megaMenu": true,
+    "subMenu": [
+      {
+        "id": 6.1,
+        "title": "Accordions",
+        "link": "/accordions"
+      },
+      {
+        "id": 6.2,
+        "title": "Buttons",
+        "link": "/buttons"
+      },
+      {
+        "id": 6.3,
+        "title": "Boxed Icons",
+        "link": "/boxed-icons"
+      },
+      {
+        "id": 6.4,
+        "title": "Contact Forms",
+        "link": "/contact-form"
+      },
+      {
+        "id": 6.5,
+        "title": "Google Maps",
+        "link": "/google-maps"
+      },
+      {
+        "id": 6.6,
+        "title": "Progress Bars",
+        "link": "/progress-bar"
+      },
+      {
+        "id": 6.7,
+        "title": "Pricing Tables",
+        "link": "/pricing-tables"
+      },
+      {
+        "id": 6.8,
+        "title": "Sliders",
+        "link": "/sliders"
+      },
+      {
+        "id": 6.9,
+        "title": "Tabs",
+        "link": "/tabs"
+      },
+      {
+        "id": 6.1,
+        "title": "Theme Icons",
+        "link": "/theme-icons"
+      },
+      {
+        "id": 6.11,
+        "title": "Typography",
+        "link": "/typography"
+      },
+      {
+        "id": 6.12,
+        "title": "Team Members",
+        "link": "/team-member"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "icon": "icon-beaker",
+    "title": "Flexible Design",
+    "text": "Designing a good website that accommodates a lot of content is a tricky balancing act to pull off."
+  },
+  {
+    "id": 2,
+    "icon": "icon-laptop",
+    "title": "Startup Mentality",
+    "text": "We build mobile apps for the conference, integrating unique content and branding to create."
+  },
+  {
+    "id": 3,
+    "icon": "icon-layers",
+    "title": "Organic Growth",
+    "text": "Google has made this important since 1998 when it launched. Content became, and still is king since websites."
+  },
+  {
+    "id": 4,
+    "icon": "icon-linegraph",
+    "title": "Proactive Strategies",
+    "text": "Designing a good website that accommodates a lot of content is a tricky balancing act to pull off."
+  },
+  {
+    "id": 5,
+    "icon": "icon-gears",
+    "title": "Easy Customization",
+    "text": "We build mobile apps for the conference, integrating unique content and branding to create."
+  },
+  {
+    "id": 6,
+    "icon": "icon-trophy",
+    "title": "Innovative Interface",
+    "text": "Google has made this important since 1998 when it launched. Content became, and still is king since websites."
+  }
+]

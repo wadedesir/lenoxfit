@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Started",
+    "featured": 1,
+    "currency": "$",
+    "price": "19",
+    "button": "btn-red",
+    "features": ["512 GB Ram", "50 GB Disk", "1 User", "4TB Bandwidth"]
+  },
+  {
+    "id": 2,
+    "title": "Ultimate",
+    "featured": 0,
+    "currency": "$",
+    "price": "29",
+    "button": "btn-dark",
+    "features": ["512 GB Ram", "80 GB Disk", "2 User", "4TB Bandwidth"]
+  }
+]

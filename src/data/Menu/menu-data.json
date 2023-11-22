@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "salad with blue cheese",
+    "tags": "julienne vegetables, crunchy noodles, beef",
+    "currency": "$",
+    "price": 31,
+    "text": "Foam padding in the insoles leather finest quality staple flat slip-on design pointed toe off-duty shoe. Black knicker lining concealed back zip fasten swing style high waisted double layer"
+  },
+  {
+    "id": 2,
+    "title": "beef tartare",
+    "tags": "home fries fried in duck fat, coleslaw",
+    "currency": "$",
+    "price": 37,
+    "text": "Foam padding in the insoles leather finest quality staple flat slip-on design pointed toe off-duty shoe. Black knicker lining concealed back zip fasten swing style high waisted double layer"
+  },
+  {
+    "id": 3,
+    "title": "pork belly",
+    "tags": "tiger prawns, chicken, wakame",
+    "currency": "$",
+    "price": 20,
+    "text": "Foam padding in the insoles leather finest quality staple flat slip-on design pointed toe off-duty shoe. Black knicker lining concealed back zip fasten swing style high waisted double layer"
+  },
+  {
+    "id": 4,
+    "title": "fish of the day",
+    "tags": "different fish every day of the week, ask stuff for assistance",
+    "currency": "$",
+    "price": 49,
+    "text": "Foam padding in the insoles leather finest quality staple flat slip-on design pointed toe off-duty shoe. Black knicker lining concealed back zip fasten swing style high waisted double layer"
+  },
+  {
+    "id": 5,
+    "title": "veal mini escalopes",
+    "tags": "potato salad, cornichons, mustard, marinated beetroot",
+    "currency": "$",
+    "price": 26,
+    "text": "Foam padding in the insoles leather finest quality staple flat slip-on design pointed toe off-duty shoe. Black knicker lining concealed back zip fasten swing style high waisted double layer"
+  },
+  {
+    "id": 6,
+    "title": "chocolate cheesecake",
+    "tags": "banana cream, raspberries, banana sorbet, white and milk chocolate",
+    "currency": "$",
+    "price": 22,
+    "text": "Foam padding in the insoles leather finest quality staple flat slip-on design pointed toe off-duty shoe. Black knicker lining concealed back zip fasten swing style high waisted double layer"
+  }
+]

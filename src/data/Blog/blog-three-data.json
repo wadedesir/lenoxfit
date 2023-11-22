@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "image": "post/post-11.jpg",
+    "title": "Quality never goes out of style",
+    "published": "April 28, 2017",
+    "comments": 5,
+    "time": 5,
+    "path": "blog-standard",
+    "type": "image"
+  },
+  {
+    "id": 2,
+    "image": "post/post-02.jpg",
+    "slides": ["post/post-02.jpg", "post/post-08.jpg", "post/post-09.jpg"],
+    "title": "Maths is easy design is hard",
+    "published": "May 9, 2015",
+    "comments": 5,
+    "time": 5,
+    "path": "blog-standard",
+    "type": "slide"
+  },
+  {
+    "id": 3,
+    "image": "post/post-12.jpg",
+    "title": "We Are good. Just ask our moms",
+    "published": "November 18, 2016",
+    "comments": 5,
+    "time": 10,
+    "path": "blog-standard",
+    "videoPath": "https://www.youtube.com/watch?v=sU3FkzUKHXU",
+    "type": "video"
+  },
+  {
+    "id": 4,
+    "image": "post/post-07.jpg",
+    "title": "In the heart of the image",
+    "published": "April 23, 2017",
+    "comments": 5,
+    "time": 5,
+    "path": "blog-standard",
+    "type": "image"
+  },
+  {
+    "id": 5,
+    "image": "post/post-13.jpg",
+    "title": "Bring your creativity to life",
+    "published": "March 21, 2012",
+    "comments": 5,
+    "time": 5,
+    "path": "blog-standard",
+    "type": "image"
+  },
+  {
+    "id": 6,
+    "image": "post/post-14.jpg",
+    "title": "Innovative in the moment",
+    "published": "June 15, 2017",
+    "comments": 5,
+    "time": 10,
+    "path": "blog-standard",
+    "type": "image"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "icon-genius",
+    "title": "Branding",
+    "text": "Maecenas aliquet sed justo nec sagittis. Mauris eu magna vitae turpis ornare viverra."
+  },
+  {
+    "id": 2,
+    "icon": "icon-aperture",
+    "title": "Responsive",
+    "text": "Fusce malesuada sit amet erat ut porttitor. Donec posuere purus sem volutpat felis suscipit."
+  },
+  {
+    "id": 3,
+    "icon": "icon-lightbulb",
+    "title": "Support",
+    "text": "Integer elit nisi accumsan ut porta non commodo at metus. Pellentesque habitant morbi tristique senectus."
+  }
+]

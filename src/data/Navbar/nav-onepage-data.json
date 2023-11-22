@@ -1,0 +1,9 @@
+[
+  { "id": 1, "title": "Home", "link": "home" },
+  { "id": 2, "title": "About", "link": "about" },
+  { "id": 3, "title": "Team", "link": "team" },
+  { "id": 4, "title": "Services", "link": "service" },
+  { "id": 5, "title": "Works", "link": "works" },
+  { "id": 6, "title": "Pricing", "link": "pricing" },
+  { "id": 7, "title": "Contact", "link": "contact" }
+]

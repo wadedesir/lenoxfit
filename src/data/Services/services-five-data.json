@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "gallery/service-img-17.jpg",
+    "title": "Vancover House",
+    "text": "Phasellus id nibh eget tortor fermentum rutrum sit amet eget urna."
+  },
+  {
+    "id": 2,
+    "image": "gallery/service-img-18.jpg",
+    "title": "Halsen Lane",
+    "text": "Phasellus id nibh eget tortor fermentum rutrum sit amet eget urna."
+  },
+  {
+    "id": 3,
+    "image": "gallery/service-img-19.jpg",
+    "title": "Sun Valley",
+    "text": "Phasellus id nibh eget tortor fermentum rutrum sit amet eget urna."
+  },
+  {
+    "id": 4,
+    "image": "gallery/service-img-20.jpg",
+    "title": "Interior Design",
+    "text": "Phasellus id nibh eget tortor fermentum rutrum sit amet eget urna."
+  }
+]

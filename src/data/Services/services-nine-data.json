@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "icon-globe",
+    "title": "Unique Ideas",
+    "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed in arcu est vivamus."
+  },
+  {
+    "id": 2,
+    "icon": "icon-linegraph",
+    "title": "Retina Ready",
+    "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed in arcu est vivamus."
+  },
+  {
+    "id": 3,
+    "icon": "icon-flag",
+    "title": "Awesome Icons",
+    "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed in arcu est vivamus."
+  },
+  {
+    "id": 4,
+    "icon": "icon-document",
+    "title": "Easy Interface",
+    "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed in arcu est vivamus."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Default Page",
+    "image": "demo-imgs/demo-1.jpg",
+    "path": "home-default"
+  },
+  {
+    "id": 2,
+    "title": "Digital Agency",
+    "image": "demo-imgs/demo-2.jpg",
+    "path": "home-digital-agency"
+  },
+  {
+    "id": 3,
+    "title": "Creative Agency",
+    "image": "demo-imgs/demo-3.jpg",
+    "path": "home-creative-agency"
+  },
+  {
+    "id": 4,
+    "title": "Startup",
+    "image": "demo-imgs/demo-4.jpg",
+    "path": "home-startup"
+  },
+  {
+    "id": 5,
+    "title": "Minimal",
+    "image": "demo-imgs/demo-5.jpg",
+    "path": "home-minimal"
+  },
+  {
+    "id": 6,
+    "title": "App Landing",
+    "image": "demo-imgs/demo-6.jpg",
+    "path": "home-app-landing"
+  },
+  {
+    "id": 7,
+    "title": "Architecture",
+    "image": "demo-imgs/demo-7.jpg",
+    "path": "home-architecture"
+  },
+  {
+    "id": 8,
+    "title": "Photography",
+    "image": "demo-imgs/demo-8.jpg",
+    "path": "home-photography"
+  },
+  {
+    "id": 9,
+    "title": "Resume",
+    "image": "demo-imgs/demo-9.jpg",
+    "path": "home-resume"
+  },
+  {
+    "id": 10,
+    "title": "Fitness",
+    "image": "demo-imgs/demo-10.jpg",
+    "path": "home-fitness"
+  },
+  {
+    "id": 11,
+    "title": "Portfolio",
+    "image": "demo-imgs/demo-11.jpg",
+    "path": "home-portfolio"
+  },
+  {
+    "id": 12,
+    "title": "Restaurant",
+    "image": "demo-imgs/demo-12.jpg",
+    "path": "home-restaurant"
+  },
+  {
+    "id": 13,
+    "title": "Fashion",
+    "image": "demo-imgs/demo-13.jpg",
+    "path": "home-fashion"
+  },
+  {
+    "id": 14,
+    "title": "One Page",
+    "image": "demo-imgs/demo-14.jpg",
+    "path": "home-one-page"
+  },
+  {
+    "id": 15,
+    "title": "Corporate",
+    "image": "demo-imgs/demo-15.jpg",
+    "path": "home-corporate-business"
+  }
+]

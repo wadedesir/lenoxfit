@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Andie Monroe",
+    "role": "Fashion Model",
+    "image": "team/model-01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Estella Janssen",
+    "role": "Hollywood Actress",
+    "image": "team/model-02.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Dorothy Romijn",
+    "role": "Fashion Model",
+    "image": "team/model-03.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Josie Sims",
+    "role": "Hollywood Actress",
+    "image": "team/model-04.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Sharon Hazell",
+    "role": "Fashion Model",
+    "image": "team/model-05.jpg"
+  }
+]

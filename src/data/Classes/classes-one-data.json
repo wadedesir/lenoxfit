@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "custom/membership.png",
+    "color": "red",
+    "title": "membership",
+    "text": "",
+    "path": "home-fitness"
+  },
+  {
+    "id": 2,
+    "image": "custom/master-trainer.png",
+    "color": "purple",
+    "title": "master Trainer",
+    "text": "",
+    "path": "home-fitness"
+  },
+  {
+    "id": 3,
+    "image": "custom/trainer.png",
+    "color": "teal",
+    "title": "Trainer",
+    "text": "",
+    "path": "home-fitness"
+  }
+]

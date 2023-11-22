@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "title": "Fresh Beer",
+    "icon": "ion-beer",
+    "items": [
+      {
+        "id": 1,
+        "title": "White Wine",
+        "image": "gallery/service-img.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      },
+      {
+        "id": 2,
+        "title": "Red Wine",
+        "image": "gallery/service-img-2.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      },
+      {
+        "id": 3,
+        "title": "Distillateds",
+        "image": "gallery/service-img-3.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      },
+      {
+        "id": 4,
+        "title": "Tohun Wine",
+        "image": "gallery/service-img-4.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Dinner",
+    "icon": "ion-pizza",
+    "items": [
+      {
+        "id": 1,
+        "title": "Grass Beef Fillet",
+        "image": "gallery/service-img-5.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      },
+      {
+        "id": 2,
+        "title": "Confit of lamb",
+        "image": "gallery/service-img-6.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      },
+      {
+        "id": 3,
+        "title": "Roast partridge",
+        "image": "gallery/service-img-7.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      },
+      {
+        "id": 4,
+        "title": "Steamed king crab",
+        "image": "gallery/service-img-8.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Dessert",
+    "icon": "ion-android-restaurant",
+    "items": [
+      {
+        "id": 1,
+        "title": "Crispy skin Cone",
+        "image": "gallery/service-img-9.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      },
+      {
+        "id": 2,
+        "title": "Roast spatchcock",
+        "image": "gallery/service-img-10.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      },
+      {
+        "id": 3,
+        "title": "Steamed jasmine rice",
+        "image": "gallery/service-img-11.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      },
+      {
+        "id": 4,
+        "title": "Ocean trout in saffron",
+        "image": "gallery/service-img-12.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Exclusive Dish",
+    "icon": "ion-fork",
+    "items": [
+      {
+        "id": 1,
+        "title": "Salad of shaved fenne",
+        "image": "gallery/service-img-13.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      },
+      {
+        "id": 2,
+        "title": "Beetroot cured kingfish",
+        "image": "gallery/service-img-14.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      },
+      {
+        "id": 3,
+        "title": "Deboned king quail",
+        "image": "gallery/service-img-15.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      },
+      {
+        "id": 4,
+        "title": "Slow roasted white",
+        "image": "gallery/service-img-16.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+      }
+    ]
+  }
+]

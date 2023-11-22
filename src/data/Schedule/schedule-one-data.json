@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "title": "Monday",
+    "classes": [
+      {
+        "id": 1,
+        "title": "Yoga",
+        "text": "7:00 AM - 8:00 AM"
+      },
+      {
+        "id": 2,
+        "title": "Shoulders & Arms",
+        "text": "9:00 AM - 10:00 AM"
+      },
+      {
+        "id": 3,
+        "title": "Body Works",
+        "text": "11:00 AM - 11:30 AM"
+      },
+      {
+        "id": 4,
+        "title": "Power Fitness",
+        "text": "12:00 PM - 12:45 PM"
+      },
+      {
+        "id": 5,
+        "title": "Swimming",
+        "text": "2:00 PM - 3:30 PM"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tuesday",
+    "classes": [
+      {
+        "id": 1,
+        "title": "Yoga",
+        "text": "7:00 AM - 8:00 AM"
+      },
+      {
+        "id": 2,
+        "title": "Shoulders & Arms",
+        "text": "9:00 AM - 10:00 AM"
+      },
+      {
+        "id": 3,
+        "title": "Body Works",
+        "text": "11:00 AM - 11:30 AM"
+      },
+      {
+        "id": 4,
+        "title": "Power Fitness",
+        "text": "12:00 PM - 12:45 PM"
+      },
+      {
+        "id": 5,
+        "title": "Swimming",
+        "text": "2:00 PM - 3:30 PM"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Wednesday",
+    "classes": [
+      {
+        "id": 1,
+        "title": "Yoga",
+        "text": "7:00 AM - 8:00 AM"
+      },
+      {
+        "id": 2,
+        "title": "Shoulders & Arms",
+        "text": "9:00 AM - 10:00 AM"
+      },
+      {
+        "id": 3,
+        "title": "Body Works",
+        "text": "11:00 AM - 11:30 AM"
+      },
+      {
+        "id": 4,
+        "title": "Power Fitness",
+        "text": "12:00 PM - 12:45 PM"
+      },
+      {
+        "id": 5,
+        "title": "Swimming",
+        "text": "2:00 PM - 3:30 PM"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Thursday",
+    "classes": [
+      {
+        "id": 1,
+        "title": "Yoga",
+        "text": "7:00 AM - 8:00 AM"
+      },
+      {
+        "id": 2,
+        "title": "Shoulders & Arms",
+        "text": "9:00 AM - 10:00 AM"
+      },
+      {
+        "id": 3,
+        "title": "Body Works",
+        "text": "11:00 AM - 11:30 AM"
+      },
+      {
+        "id": 4,
+        "title": "Power Fitness",
+        "text": "12:00 PM - 12:45 PM"
+      },
+      {
+        "id": 5,
+        "title": "Swimming",
+        "text": "2:00 PM - 3:00 PM"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Friday",
+    "classes": [
+      {
+        "id": 1,
+        "title": "Yoga",
+        "text": "7:00 AM - 8:00 AM"
+      },
+      {
+        "id": 2,
+        "title": "Shoulders & Arms",
+        "text": "9:00 AM - 10:00 AM"
+      },
+      {
+        "id": 3,
+        "title": "Body Works",
+        "text": "11:00 AM - 11:30 AM"
+      },
+      {
+        "id": 4,
+        "title": "Power Fitness",
+        "text": "12:00 PM - 12:45 PM"
+      },
+      {
+        "id": 5,
+        "title": "Swimming",
+        "text": "2:00 PM - 3:30 PM"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "icon": "icon-mobile",
+    "title": "Responsive and Retina",
+    "text": "Tested on all devices works. High-quality images, fonts and texts."
+  },
+  {
+    "id": 2,
+    "icon": "icon-browser",
+    "title": "10+ Header Styles",
+    "text": "Modern header types included in Grandy for any type of website."
+  },
+  {
+    "id": 3,
+    "icon": "icon-pricetags",
+    "title": "Shop Pages",
+    "text": "Shop, single product, cart and checkout page included. the world’s best shopping pages."
+  },
+  {
+    "id": 4,
+    "icon": "icon-speedometer",
+    "title": "High-Speed Performace",
+    "text": "The quality code and minifying in the theme work on high-speed performance."
+  },
+  {
+    "id": 5,
+    "icon": "icon-pictures",
+    "title": "20+ Portfolio Item Types",
+    "text": "Creative portfolio style like grid and masonry items, spacing and text options."
+  },
+  {
+    "id": 6,
+    "icon": "icon-grid",
+    "title": "90+ Components",
+    "text": "Home page creative, business, fitness, architecture, inner pages, elements."
+  },
+  {
+    "id": 7,
+    "icon": "icon-briefcase",
+    "title": "Cool Contact Form",
+    "text": "4+ Contact form styles, simple form, light form, white box form and dark style form."
+  },
+  {
+    "id": 8,
+    "icon": "icon-gears",
+    "title": "Customizable",
+    "text": "Friendly customize every section in your theme through our theme page options."
+  },
+  {
+    "id": 9,
+    "icon": "icon-expand",
+    "title": "Megamenu",
+    "text": "10+ Menu Styles, menu center, menu right, logo center, side menu, shop and search."
+  },
+  {
+    "id": 10,
+    "icon": "icon-newspaper",
+    "title": "Blog Post",
+    "text": "Multiple post type varieties to show each post in its style, And single post style."
+  },
+  {
+    "id": 11,
+    "icon": "icon-hourglass",
+    "title": "Coming Soon And 404 Page",
+    "text": "Let your site visitors know you are working on site, in a simple way with our theme."
+  },
+  {
+    "id": 12,
+    "icon": "icon-documents",
+    "title": "W3C Valitation",
+    "text": "All Html files 100% validate from W3C valitation. Including CSS files."
+  }
+]

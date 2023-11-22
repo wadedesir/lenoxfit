@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "tags": ["branding"],
+    "image": "portfolio/grid/27.jpg",
+    "title": "Liquid Body",
+    "path": "!#",
+    "category": ["All", "Branding"],
+    "md": 8,
+    "sm": 12
+  },
+  {
+    "id": 2,
+    "tags": ["print design"],
+    "image": "portfolio/grid/28.jpg",
+    "title": "Ober Flache",
+    "path": "!#",
+    "category": ["All", "Print Design", "UI/UX Design"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 3,
+    "tags": ["development"],
+    "image": "portfolio/grid/29.jpg",
+    "title": "Teresa Helbig",
+    "path": "!#",
+    "category": ["All", "Development", "Print Design"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 4,
+    "tags": ["branding"],
+    "image": "portfolio/grid/30.jpg",
+    "title": "Botanical",
+    "path": "!#",
+    "category": ["All", "Branding"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 5,
+    "tags": ["development", "print"],
+    "image": "portfolio/grid/31.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "category": ["All", "Print Design", "Development"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 6,
+    "tags": ["branding"],
+    "image": "portfolio/grid/32.jpg",
+    "title": "Helsinki",
+    "path": "!#",
+    "category": ["All", "Branding", "UI/UX Design"],
+    "md": 4,
+    "sm": 12
+  },
+  {
+    "id": 7,
+    "tags": ["branding"],
+    "image": "portfolio/grid/33.jpg",
+    "title": "Cultural",
+    "path": "!#",
+    "category": ["All", "Branding", "UI/UX Design"],
+    "md": 4,
+    "sm": 12
+  },
+  {
+    "id": 8,
+    "tags": ["branding"],
+    "image": "portfolio/grid/34.jpg",
+    "title": "Cosmetic",
+    "path": "!#",
+    "category": ["All", "Branding", "UI/UX Design"],
+    "md": 4,
+    "sm": 12
+  }
+]

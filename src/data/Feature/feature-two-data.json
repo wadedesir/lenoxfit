@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "icon-tools-2",
+    "title": "Fully Customization",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolores. Eum laudantium."
+  },
+  {
+    "id": 2,
+    "icon": "icon-phone",
+    "title": "Fast Support",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolores. Eum laudantium."
+  },
+  {
+    "id": 3,
+    "icon": "icon-pricetags",
+    "title": "Free Update",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolores. Eum laudantium."
+  },
+  {
+    "id": 4,
+    "icon": "icon-paintbrush",
+    "title": "Awesome Design",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolores. Eum laudantium."
+  }
+]

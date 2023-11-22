@@ -1,0 +1,16 @@
+{
+  "Body Types": {
+    "Branding": {
+      "slug": "branding"
+    },
+    "Print Design": {
+      "slug": "print-design"
+    },
+    "UI/UX Design": {
+      "slug": "ui-ux"
+    },
+    "Development": {
+      "slug": "development"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Front-end Development",
+    "text": 85
+  },
+  {
+    "id": 2,
+    "title": "User Experience",
+    "text": 70
+  },
+  {
+    "id": 3,
+    "title": "Javascript",
+    "text": 50
+  },
+  {
+    "id": 4,
+    "title": "Photoshop",
+    "text": 95
+  },
+  {
+    "id": 5,
+    "title": "Illustration",
+    "text": 40
+  },
+  {
+    "id": 6,
+    "title": "Wordpress",
+    "text": 60
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "period": "2016 - Present",
+    "title": "Front-end Developer, Google",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus consequat rutrum. Donec consectetur eros et nulla viverra dictum vel at nulla."
+  },
+  {
+    "id": 2,
+    "period": "2015 - 2016",
+    "title": "Web Designer, Sony",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus consequat rutrum. Donec consectetur eros et nulla viverra dictum vel at nulla."
+  },
+  {
+    "id": 3,
+    "period": "2014 - 2015",
+    "title": "Designer and Developer, Envato",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus consequat rutrum. Donec consectetur eros et nulla viverra dictum vel at nulla."
+  },
+  {
+    "id": 4,
+    "period": "2013 - 2014",
+    "title": "Front end Coder, Themeforest",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus consequat rutrum. Donec consectetur eros et nulla viverra dictum vel at nulla."
+  },
+  {
+    "id": 5,
+    "period": "2016 - Present",
+    "title": "BS(CS), University of New York",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus consequat rutrum. Donec consectetur eros et nulla viverra dictum vel at nulla."
+  },
+  {
+    "id": 6,
+    "period": "2015 - 2016",
+    "title": "Diploma in Designing, College of Arts",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus consequat rutrum. Donec consectetur eros et nulla viverra dictum vel at nulla."
+  },
+  {
+    "id": 7,
+    "period": "2014 - 2015",
+    "title": "Diploma in Programing, Insitute",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus consequat rutrum. Donec consectetur eros et nulla viverra dictum vel at nulla."
+  },
+  {
+    "id": 8,
+    "period": "2012 - 2013",
+    "title": "School, High School of New York",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla luctus consequat rutrum. Donec consectetur eros et nulla viverra dictum vel at nulla."
+  }
+]

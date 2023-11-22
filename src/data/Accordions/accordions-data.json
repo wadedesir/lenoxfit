@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Personal Training",
+    "text": "Personal Training is available with one of our licensed professionals on an appointment basis. Our Trainers will assess you and design a program to help you meet your personal goals and objectives. Training sessions are 55 minutes."
+  },
+  {
+    "id": 2,
+    "title": "Cardio & Strength",
+    "text": "Featuring machines and equipment from Life Fitness including brand new treadmills, ellipticals, recumbent bikes, lifecycles, AMTs, a Power Mill, Concept Two Rowers and Fan Bikes. Strength stations include a wide selection for a full body strength circuit workout."
+  },
+  {
+    "id": 3,
+    "title": "Free Weights",
+    "text": "Featuring equipment by Hammer Strength and Rogue, with adjustable benches, a smith machine, a squat rack as well as many pieces of functional fitness equipment."
+  }
+]

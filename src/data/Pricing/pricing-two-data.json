@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Started",
+    "featured": 0,
+    "currency": "$",
+    "price": "0.99",
+    "features": ["512 GB Ram", "50 GB Disk", "1 User", "4TB Bandwidth"]
+  },
+  {
+    "id": 2,
+    "title": "Basic",
+    "featured": 0,
+    "currency": "$",
+    "price": "19.99",
+    "features": ["512 GB Ram", "80 GB Disk", "2 User", "4TB Bandwidth"]
+  },
+  {
+    "id": 3,
+    "title": "Standard",
+    "featured": 1,
+    "currency": "$",
+    "price": "39.99",
+    "features": [
+      "768 GB Ram",
+      "80 GB Disk",
+      "3 User",
+      "Full Data Security",
+      "Unlimited Questions",
+      "6TB Bandwidth"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pro",
+    "featured": 0,
+    "currency": "$",
+    "price": "49.99",
+    "features": ["1 TB Ram", "1 TB Disk", "4 User", "4TB Bandwidth"]
+  }
+]

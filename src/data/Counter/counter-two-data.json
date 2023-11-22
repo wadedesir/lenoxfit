@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "icon-trophy",
+    "title": "629",
+    "text": "Projects Wons"
+  },
+  {
+    "id": 2,
+    "icon": "icon-toolbox",
+    "title": "223",
+    "text": "Our Customers"
+  },
+  {
+    "id": 3,
+    "icon": "icon-lifesaver",
+    "title": "452",
+    "text": "Reviews"
+  },
+  {
+    "id": 4,
+    "icon": "icon-linegraph",
+    "title": "742",
+    "text": "Build a Websites"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "tags": ["branding"],
+    "image": "portfolio/grid/12.jpg",
+    "title": "Studio Niccolai",
+    "path": "!#",
+    "category": ["All", "Branding"],
+    "md": 8,
+    "sm": 12
+  },
+  {
+    "id": 2,
+    "tags": ["print", "ui-ux"],
+    "image": "portfolio/grid/14.jpg",
+    "title": "Thenordic",
+    "path": "!#",
+    "category": ["All", "Print Design", "UI/UX Design"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 3,
+    "tags": ["print", "development"],
+    "image": "portfolio/grid/16.jpg",
+    "title": "Coffee & Tea",
+    "path": "!#",
+    "category": ["All", "Development", "Print Design"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 4,
+    "tags": ["branding"],
+    "image": "portfolio/grid/17.jpg",
+    "title": "Fach Bureau",
+    "path": "!#",
+    "category": ["All", "Branding"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 5,
+    "tags": ["branding", "ui-ux"],
+    "image": "portfolio/grid/19.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "category": ["All", "Branding", "UI/UX Design"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 6,
+    "tags": ["print", "development"],
+    "image": "portfolio/grid/20.jpg",
+    "title": "Collection",
+    "path": "!#",
+    "category": ["All", "Print Design", "Development"],
+    "md": 4,
+    "sm": 12
+  }
+]

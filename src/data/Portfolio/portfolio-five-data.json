@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "image": "gallery/gallery-img-4.jpg",
+    "title": "Studio Niccolai",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 2,
+    "image": "gallery/gallery-img-5.jpg",
+    "title": "Thenordic",
+    "path": "!#",
+    "classes": "large"
+  },
+  {
+    "id": 3,
+    "image": "gallery/gallery-img-6.jpg",
+    "title": "Coffee & Tea",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 4,
+    "image": "gallery/gallery-img-7.jpg",
+    "title": "Fach Bureau",
+    "path": "!#",
+    "classes": "medium-thin"
+  },
+  {
+    "id": 5,
+    "image": "gallery/gallery-img-8.jpg",
+    "title": "Collection",
+    "path": "!#",
+    "classes": "medium-fat"
+  },
+  {
+    "id": 6,
+    "image": "gallery/gallery-img-9.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "medium-fat"
+  },
+  {
+    "id": 7,
+    "image": "gallery/gallery-img-10.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "large-thin"
+  },
+  {
+    "id": 8,
+    "image": "gallery/gallery-img-11.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "medium-thin"
+  },
+  {
+    "id": 9,
+    "image": "gallery/gallery-img-12.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 10,
+    "image": "gallery/gallery-img-13.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "medium-fat"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "icon": "icon-focus",
+    "bg": "dark-bg",
+    "title": "Branding",
+    "text": "Duis aliquet ut enim nec pulvinar Nam ultrices massa sit amet ornare elementum erat lacus consectetur metus posuere."
+  },
+  {
+    "id": 2,
+    "icon": "icon-megaphone",
+    "bg": "darken-bg",
+    "title": "Marketing",
+    "text": "Duis aliquet ut enim nec pulvinar Nam ultrices massa sit amet ornare elementum erat lacus consectetur metus posuere."
+  },
+  {
+    "id": 3,
+    "icon": "icon-camera",
+    "bg": "d-dark-bg",
+    "title": "Photography",
+    "text": "Duis aliquet ut enim nec pulvinar Nam ultrices massa sit amet ornare elementum erat lacus consectetur metus posuere."
+  }
+]

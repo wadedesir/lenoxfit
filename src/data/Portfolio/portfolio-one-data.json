@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "tags": ["branding"],
+    "image": "portfolio/grid/1.jpg",
+    "title": "Studio Niccolai",
+    "path": "!#",
+    "category": ["all", "branding"],
+    "classes": "large"
+  },
+  {
+    "id": 2,
+    "tags": ["print design"],
+    "image": "portfolio/grid/2.jpg",
+    "title": "Thenordic",
+    "path": "!#",
+    "category": ["all", "print design"],
+    "classes": "medium"
+  },
+  {
+    "id": 3,
+    "tags": ["development"],
+    "image": "portfolio/grid/3.jpg",
+    "title": "OJ. Juice",
+    "path": "!#",
+    "category": ["all", "development", "print design"],
+    "classes": "medium"
+  },
+  {
+    "id": 4,
+    "tags": ["branding"],
+    "image": "portfolio/grid/4.jpg",
+    "title": "Fach Bureau",
+    "path": "!#",
+    "category": ["all", "branding"],
+    "classes": "medium"
+  },
+  {
+    "id": 5,
+    "tags": ["branding"],
+    "image": "portfolio/grid/5.jpg",
+    "title": "John Laurie",
+    "path": "!#",
+    "category": ["all", "branding"],
+    "classes": "medium"
+  },
+  {
+    "id": 6,
+    "tags": ["print", "development"],
+    "image": "portfolio/grid/6.jpg",
+    "title": "Shoe",
+    "path": "!#",
+    "category": ["all", "print design", "development"],
+    "classes": "medium"
+  },
+  {
+    "id": 7,
+    "tags": ["ui-ux design"],
+    "image": "portfolio/grid/7.jpg",
+    "title": "3D Design",
+    "path": "!#",
+    "category": ["all", "ui/ux design"],
+    "classes": "tall"
+  },
+  {
+    "id": 8,
+    "tags": ["ui-ux design"],
+    "image": "portfolio/grid/8.jpg",
+    "title": "Myat Lawyers",
+    "path": "!#",
+    "category": ["all", "ui/ux design"],
+    "classes": "large"
+  }
+]

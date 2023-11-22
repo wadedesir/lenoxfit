@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "ion-ios-game-controller-b-outline",
+    "title": "Video Games",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+  },
+  {
+    "id": 2,
+    "icon": "ion-ios-wineglass-outline",
+    "title": "Beverages on Hand",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+  },
+  {
+    "id": 3,
+    "icon": "ion-ios-calendar-outline",
+    "title": "Flexible Hours",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce efficitur congue erat ac molestie."
+  }
+]

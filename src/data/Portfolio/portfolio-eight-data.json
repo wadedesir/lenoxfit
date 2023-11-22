@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "tags": ["branding"],
+    "image": "portfolio/grid/12.jpg",
+    "title": "Studio Niccolai",
+    "path": "!#",
+    "category": ["All", "Branding"]
+  },
+  {
+    "id": 2,
+    "tags": ["print", "ui-ux"],
+    "image": "portfolio/grid/14.jpg",
+    "title": "Thenordic",
+    "path": "!#",
+    "category": ["All", "Print Design", "UI/UX Design"]
+  },
+  {
+    "id": 3,
+    "tags": ["print", "development"],
+    "image": "portfolio/grid/16.jpg",
+    "title": "Coffee & Tea",
+    "path": "!#",
+    "category": ["All", "Development", "Print Design"]
+  },
+  {
+    "id": 4,
+    "tags": ["branding"],
+    "image": "portfolio/grid/17.jpg",
+    "title": "Fach Bureau",
+    "path": "!#",
+    "category": ["All", "Branding"]
+  },
+  {
+    "id": 5,
+    "tags": ["branding", "ui-ux"],
+    "image": "portfolio/grid/19.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "category": ["All", "Branding", "UI/UX Design"]
+  },
+  {
+    "id": 6,
+    "tags": ["print", "development"],
+    "image": "portfolio/grid/20.jpg",
+    "title": "Collection",
+    "path": "!#",
+    "category": ["All", "Print Design", "Development"]
+  },
+  {
+    "id": 7,
+    "tags": ["branding"],
+    "image": "portfolio/grid/21.jpg",
+    "title": "Jassel",
+    "path": "!#",
+    "category": ["All", "Branding"]
+  },
+  {
+    "id": 8,
+    "tags": ["print", "ui-ux"],
+    "image": "portfolio/grid/22.jpg",
+    "title": "Peony Hotel",
+    "path": "!#",
+    "category": ["All", "Print Design", "UI/UX Design"]
+  },
+  {
+    "id": 9,
+    "tags": ["print", "development"],
+    "image": "portfolio/grid/23.jpg",
+    "title": "Sumatra T-shirt",
+    "path": "!#",
+    "category": ["All", "Development", "Print Design"]
+  },
+  {
+    "id": 10,
+    "tags": ["branding"],
+    "image": "portfolio/grid/24.jpg",
+    "title": "Fach Bureau",
+    "path": "!#",
+    "category": ["All", "Branding"]
+  },
+  {
+    "id": 11,
+    "tags": ["branding", "ui-ux"],
+    "image": "portfolio/grid/25.jpg",
+    "title": "Scio Stationery",
+    "path": "!#",
+    "category": ["All", "Branding", "UI/UX Design"]
+  },
+  {
+    "id": 12,
+    "tags": ["print", "development"],
+    "image": "portfolio/grid/26.jpg",
+    "title": "Bahushko",
+    "path": "!#",
+    "category": ["All", "Print Design", "Development"]
+  }
+]

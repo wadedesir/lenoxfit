@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Digital Solutions",
+    "text": "90"
+  },
+  {
+    "id": 2,
+    "title": "Productivity",
+    "text": "60"
+  },
+  {
+    "id": 3,
+    "title": "Strategy",
+    "text": "35"
+  },
+  {
+    "id": 4,
+    "title": "Planning",
+    "text": "80"
+  }
+]

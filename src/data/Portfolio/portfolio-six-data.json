@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "tags": ["branding"],
+    "image": "portfolio/grid/35.jpg",
+    "title": "Studio Niccolai",
+    "path": "!#",
+    "category": ["All", "Branding"],
+    "md": 8,
+    "sm": 12
+  },
+  {
+    "id": 2,
+    "tags": ["print design"],
+    "image": "portfolio/grid/36.jpg",
+    "title": "Long Lasting",
+    "path": "!#",
+    "category": ["All", "Print Design", "UI/UX Design"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 3,
+    "tags": ["development"],
+    "image": "portfolio/grid/37.jpg",
+    "title": "Mobile Apps",
+    "path": "!#",
+    "category": ["All", "Development", "Print Design"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 4,
+    "tags": ["branding"],
+    "image": "portfolio/grid/38.jpg",
+    "title": "Fach Bureau",
+    "path": "!#",
+    "category": ["All", "Branding"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 5,
+    "tags": ["development", "print"],
+    "image": "portfolio/grid/39.jpg",
+    "title": "Big Screen",
+    "path": "!#",
+    "category": ["All", "Print Design", "Development"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 6,
+    "tags": ["branding"],
+    "image": "portfolio/grid/40.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "category": ["All", "Branding", "UI/UX Design"],
+    "md": 4,
+    "sm": 12
+  },
+  {
+    "id": 7,
+    "tags": ["branding"],
+    "image": "portfolio/grid/41.jpg",
+    "title": "Smart Watch",
+    "path": "!#",
+    "category": ["All", "Branding", "UI/UX Design"],
+    "md": 4,
+    "sm": 12
+  },
+  {
+    "id": 8,
+    "tags": ["branding"],
+    "image": "portfolio/grid/42.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "category": ["All", "Branding", "UI/UX Design"],
+    "md": 4,
+    "sm": 12
+  },
+  {
+    "id": 9,
+    "tags": ["branding"],
+    "image": "portfolio/grid/43.jpg",
+    "title": "Coffee Mug",
+    "path": "!#",
+    "category": ["All", "Branding", "UI/UX Design"],
+    "md": 4,
+    "sm": 12
+  }
+]

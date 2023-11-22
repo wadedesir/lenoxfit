@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "image": "team/team-01.jpg",
+    "title": "team member",
+    "role": "Role",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 2,
+        "path": "!#",
+        "title": "twitter"
+      },
+      {
+        "id": 3,
+        "path": "!#",
+        "title": "linkedin"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "team/team-02.jpg",
+    "title": "team member",
+    "role": "role",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 2,
+        "path": "!#",
+        "title": "twitter"
+      },
+      {
+        "id": 3,
+        "path": "!#",
+        "title": "linkedin"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "team/team-03.jpg",
+    "title": "team member",
+    "role": "role",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 2,
+        "path": "!#",
+        "title": "twitter"
+      },
+      {
+        "id": 3,
+        "path": "!#",
+        "title": "linkedin"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "team/team-04.jpg",
+    "title": "team member",
+    "role": "role",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 2,
+        "path": "!#",
+        "title": "twitter"
+      },
+      {
+        "id": 3,
+        "path": "!#",
+        "title": "linkedin"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "team/team-05.jpg",
+    "title": "team member",
+    "role": "role",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 2,
+        "path": "!#",
+        "title": "twitter"
+      },
+      {
+        "id": 3,
+        "path": "!#",
+        "title": "linkedin"
+      }
+    ]
+  }
+]
