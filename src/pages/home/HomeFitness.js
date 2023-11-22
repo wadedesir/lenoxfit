@@ -31,13 +31,13 @@ const HomeFitness = () => {
     <Loader>
       <FsLightbox
         toggler={toggler}
-        sources={["https://www.youtube.com/watch?v=TJLan-pJzfQ&t=38s&ab_channel=BibleProject"]}
+        sources={["https://www.youtube.com/watch?app=desktop&v=NXUiu0fyYDs&feature=youtu.be&ab_channel=LenoxFit"]}
       />
       <NavbarSimpleSocial data={dataNavbar} />
       <FitnessSlider />
       <AboutUsThree
         image={imgAbout}
-        pathVideo="https://www.youtube.com/watch?v=TJLan-pJzfQ&t=38s&ab_channel=BibleProject"
+        pathVideo="https://www.youtube.com/watch?app=desktop&v=NXUiu0fyYDs&feature=youtu.be&ab_channel=LenoxFit"
         setToggler={setToggler}
         toggler={toggler}
       />

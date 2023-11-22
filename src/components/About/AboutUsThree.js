@@ -1,5 +1,4 @@
 import React from "react";
-import video from "../../assets/images/custom/Promo.MOV"
 import placeholder from '../../assets/images/custom/vidplaceholder.png'
 
 const AboutUsThree = ({ image, pathVideo, setToggler, toggler }) => (
@@ -48,9 +47,6 @@ const AboutUsThree = ({ image, pathVideo, setToggler, toggler }) => (
             </div>
           </div>
         </div>
-        {/* <video className="col-md-4 col-sm-6 bg-flex-cover p-0 darken-bg" autoPlay muted controls>
-          <source src={video} type="video/mp4"></source>
-        </video> */}
 
         <div className="col-md-4 col-sm-12 darken-bg">
           <div className="col-inner pt-70 pb-50 spacer">
