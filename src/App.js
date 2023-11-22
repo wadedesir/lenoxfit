@@ -86,7 +86,7 @@ function App() {
               component={HomeFitness}
             />
 
-            <Route
+            {/* <Route
               exact
               path={`${process.env.PUBLIC_URL}/demos`}
               component={Demos}
@@ -415,8 +415,10 @@ function App() {
               exact
               path={`${process.env.PUBLIC_URL}/team-member`}
               component={TeamMembersPage}
-            />
+            /> */}
+
             <Route component={Page404} />
+
           </Switch>
         </ScrollToTop>
       </ScrollIntoView>

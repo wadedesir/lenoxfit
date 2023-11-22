@@ -110,7 +110,7 @@ const Page404 = () => {
 
   return (
     <>
-      <NavbarSocial data={dataNavbar} type="white" />
+      {/* <NavbarSocial data={dataNavbar} type="white" /> */}
       <section className="pt-0 pb-0">
         <div className="full-screen-bg">
           <canvas></canvas>
