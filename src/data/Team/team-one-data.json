@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "team/team-01.jpg",
+    "image": "custom/sue.jpg",
     "title": "team member",
     "role": "Role",
     "social": [
@@ -24,7 +24,7 @@
   },
   {
     "id": 2,
-    "image": "team/team-02.jpg",
+    "image": "custom/ashley.jpg",
     "title": "team member",
     "role": "role",
     "social": [
@@ -47,7 +47,7 @@
   },
   {
     "id": 3,
-    "image": "team/team-03.jpg",
+    "image": "custom/erica.jpg",
     "title": "team member",
     "role": "role",
     "social": [
@@ -70,7 +70,7 @@
   },
   {
     "id": 4,
-    "image": "team/team-04.jpg",
+    "image": "custom/Josh.jpg",
     "title": "team member",
     "role": "role",
     "social": [
@@ -93,7 +93,30 @@
   },
   {
     "id": 5,
-    "image": "team/team-05.jpg",
+    "image": "custom/karen.jpg",
+    "title": "team member",
+    "role": "role",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 2,
+        "path": "!#",
+        "title": "twitter"
+      },
+      {
+        "id": 3,
+        "path": "!#",
+        "title": "linkedin"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "custom/ethan.jpg",
     "title": "team member",
     "role": "role",
     "social": [

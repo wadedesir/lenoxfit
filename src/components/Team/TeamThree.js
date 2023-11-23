@@ -54,7 +54,7 @@ const TeamThree = ({ data, title, tagline, backfont }) => {
             <Slider {...settings}>
               {data.map((member) => (
                 <div className="member" key={member.id}>
-                  <div className="team-member-container gallery-image-hover">
+                  <div className="team-member-container gallery-image-hover" >
                     <img
                       src={require("../../assets/images/" + member.image)}
                       className="img-responsive"

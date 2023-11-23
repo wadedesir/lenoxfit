@@ -22,7 +22,7 @@ import Loader from "../../components/Loader/Loader";
 
 import Services from '../../components/Custom/Services'
 import Recovery from "../../components/Custom/Recovery";
-import TeamOne from "../../components/Team/TeamOne";
+import TeamThree from "../../components/Team/TeamThree";
 import dataTeam from "../../data/Team/team-one-data.json";
 
 const HomeFitness = () => {
@@ -46,7 +46,12 @@ const HomeFitness = () => {
       <ClassesOne data={dataClasses} title="Our Prices" />
       <Recovery title="Recovery Suite" />
       <ScheduleOne data={dataSchedule} title="The Schedule" />
-      <TeamOne title="OUR TEAM" data={dataTeam} bg="white" />
+      <TeamThree
+        data={dataTeam}
+        title="Our Team"
+        tagline=""
+        backfont="Team"
+      />
       <ParallaxTwo image={imgParallax}>
         "Lorem ipsum lorem impsum lorem ipsum lorem ipsums"
       </ParallaxTwo>

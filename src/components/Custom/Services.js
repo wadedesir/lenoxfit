@@ -8,7 +8,7 @@ const Services = () => {
     <section className="white-bg" id="schedule">
 
 
-      <div className="container">
+      <div className="container-fluid">
         <div className="row">
           <div className="col-sm-8 section-heading pb-0">
             <h2 className="mt-0">Services</h2>

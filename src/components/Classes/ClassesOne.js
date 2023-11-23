@@ -11,7 +11,23 @@ const classNameesOne = ({ data, title }) => (
           <hr className="dark-bg" />
         </div>
       </div>
-      <div className="row mt-50">
+
+      <div style={{ marginRight: '15px', marginLeft: '15px' }}>
+        <p>
+          <span style={{ fontWeight: 'bold' }}>
+            PAYMENT PLAN OPTION (EFT):
+          </span>
+          For your convenience, a monthly fee can be automatically deducted from your checking account or credit card account. There is no enrollment fee with this plan; a one year commitment is required. No discounts are available with this option. <span style={{ fontWeight: 'bold' }}>$42.00</span> per month.
+        </p>
+        <p>
+          <span style={{ fontWeight: 'bold' }}>
+            10 DAY VISIT BOOKLETS:
+          </span>
+          Our Day Visit Booklet has replaced our punch card plan. When purchased in advance, there are 10 visits in a booklet for <span style={{ fontWeight: 'bold' }}>$120</span> which offers a <span style={{ fontWeight: 'bold' }}>$30</span> savings and has no expiration date. Day Booklets are the same as cash and no replacements are available for lost passes/books.
+        </p>
+      </div>
+
+      <div className="row mt-10">
         {data.map((item, i) => (
           <ReactWow animation="fadeInUp" delay={`0.${i}s`} key={item.id}>
             <div className="col-md-4 p-0">
