@@ -5,7 +5,7 @@ import WelcomeThree from "../../components/Welcome/WelcomeThree";
 
 const Services = () => {
   return (
-    <section className="white-bg" id="schedule" style={{ paddingBottom: '40px' }}>
+    <section className="white-bg" id="services" style={{ paddingBottom: '40px' }}>
 
 
       <div className="container-fluid">

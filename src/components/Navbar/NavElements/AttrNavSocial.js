@@ -4,13 +4,10 @@ const AttrNavSocial = () => (
   <div className="attr-nav">
     <ul className="social-media-dark social-top">
       <li>
-        <a href={process.env.PUBLIC_URL} className="ion-social-facebook"><span></span></a>
+        <a href="https://www.facebook.com/LenoxFitInc/" className="ion-social-facebook"><span></span></a>
       </li>
       <li>
-        <a href={process.env.PUBLIC_URL} className="ion-social-twitter"><span></span></a>
-      </li>
-      <li>
-        <a href={process.env.PUBLIC_URL} className="ion-social-linkedin"><span></span></a>
+        <a href="https://www.instagram.com/lenoxfit/" className="ion-social-linkedin"><span></span></a>
       </li>
     </ul>
   </div>

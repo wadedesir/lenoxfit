@@ -117,7 +117,7 @@ const Page404 = () => {
           <div className="hero-text-wrap error-section">
             <div className="hero-text">
               <div className="container text-center">
-                <h1>404</h1>
+                <h1 style={{ color: 'white' }}>404</h1>
                 <h3>Ooops! That page doesn't exist!</h3>
                 <p>
                   You might try searching our site, or starting at our home page

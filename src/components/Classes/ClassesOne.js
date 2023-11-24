@@ -2,7 +2,7 @@ import React from "react";
 import ReactWow from "react-wow";
 
 const classNameesOne = ({ data, title }) => (
-  <section className="white-bg" id="classNamees">
+  <section className="white-bg" id="pricing">
     <div className="container-fluid mx-10">
       <div className="row">
         <div className="col-sm-8 section-heading pb-0">

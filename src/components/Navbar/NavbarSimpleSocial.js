@@ -37,7 +37,7 @@ const NavbarSimpleSocial = ({ data }) => {
             >
               {data.map((item) => (
                 <li key={item.id}>
-                  <a className="page-scroll" href={`#${item.link}`}>
+                  <a className="page-scroll" href={`${item.link}`}>
                     {item.title}
                   </a>
                 </li>

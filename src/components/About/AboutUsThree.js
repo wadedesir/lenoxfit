@@ -68,14 +68,14 @@ const AboutUsThree = ({ image, pathVideo, setToggler, toggler }) => (
                 90 PITTSFIELD ROAD, LENOX, MA
               </span>
             </h3>
-            <p className="mt-20">
+            {/* <p className="mt-20">
               <a
                 href={process.env.PUBLIC_URL}
                 className="btn btn-light font-500 btn-md btn-square remove-margin"
               >
                 More
               </a>
-            </p>
+            </p> */}
           </div>
         </div>
 

@@ -5,5 +5,5 @@
   { "id": 4, "title": "Services", "link": "service" },
   { "id": 5, "title": "Works", "link": "works" },
   { "id": 6, "title": "Pricing", "link": "pricing" },
-  { "id": 7, "title": "Contact", "link": "contact" }
+  { "id": 7, "title": "Contact", "link": "/" }
 ]

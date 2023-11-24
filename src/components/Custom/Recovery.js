@@ -6,7 +6,7 @@ import cryo from '../../assets/images/custom/rec3.jpg'
 
 const Recovery = ({ title }) => {
   return (
-    <section className="dark-bg" id="schedule">
+    <section className="dark-bg" id="recovery">
 
 
       <div className="container-fluid" style={{ marginRight: '10px', marginLeft: '10px' }}>
