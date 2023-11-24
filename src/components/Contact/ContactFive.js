@@ -15,7 +15,45 @@ const ContactFive = () => (
               <h2 className="mt-0">Contact Us</h2>
               <hr className="dark-bg left-line" />
             </div>
-            <form
+
+            <div className="">
+              <div className="col-inner pt-10 pb-50">
+                <h3>
+                  <i
+                    className={`icon-phone dark-icon font-40px`}
+                  ></i>
+                  <span> </span>
+                  <span>
+                    413.637.9893
+                  </span>
+                </h3>
+                <h3>
+                  <i
+                    className={`icon-map dark-icon font-40px`}
+                  ></i>
+                  <span> </span>
+                  <span>
+                    90 PITTSFIELD ROAD, LENOX, MA
+                  </span>
+                </h3>
+              </div>
+            </div>
+            <div className="section-heading mb-50">
+              <h2 className="mt-0">Hours</h2>
+              <hr className="dark-bg left-line" />
+            </div>
+
+            <div className="">
+              <div className="col-inner pt-10">
+                <h3>
+                  Mon - Fri 6 am - 7:30 pm
+                </h3>
+                <h3>
+                  Sat 7 am - 3 pm. Sun 7 am - 1 pm
+                </h3>
+              </div>
+            </div>
+            {/* <form
               name="contact-form"
               id="contact-form"
               action=""
@@ -85,7 +123,7 @@ const ContactFive = () => (
                   </button>
                 </div>
               </ReactWow>
-            </form>
+            </form> */}
           </div>
         </div>
       </div>

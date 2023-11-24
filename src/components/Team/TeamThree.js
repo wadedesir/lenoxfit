@@ -61,9 +61,6 @@ const TeamThree = ({ data, title, tagline, backfont }) => {
                       height={300}
                       alt={member.title}
                     />
-                    <div className="bg-flex bg-flex-cover" style={{ backgroundImage: `url('../../assets/images/custom/vidplaceholder.png')` }}>
-
-                    </div>
                     <div className="member-caption">
                       <div className="member-description">
                         <div className="member-description-wrap">

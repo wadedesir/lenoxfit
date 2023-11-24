@@ -1,5 +1,9 @@
 import React from "react";
 import ReactWow from "react-wow";
+import { Slide } from 'react-slideshow-image'
+import 'react-slideshow-image/dist/styles.css';
+
+
 import award1 from '../../assets/images/custom/award1.png'
 import award2 from '../../assets/images/custom/award2.png'
 import award3 from '../../assets/images/custom/ward.png'
@@ -15,9 +19,8 @@ const CounterTwo = ({ data, bg }) => (
             <ReactWow animation="fadeInUp" delay={`0.${i}s`}>
               <div className="counter">
                 <i
-                  className={`${counter.icon} ${
-                    bg === "dark" ? "light" : "dark"
-                  }-icon font-40px`}
+                  className={`${counter.icon} ${bg === "dark" ? "light" : "dark"
+                    }-icon font-40px`}
                 ></i>
                 <h2 className={bg === "dark" ? "white-color" : ""}>
                   <span className="count font-600">{counter.title}</span>
@@ -31,12 +34,29 @@ const CounterTwo = ({ data, bg }) => (
           </div>
         ))} */}
 
+        <div className="row">
+          <div className="col-sm-8 section-heading pb-0">
+            <h2 className="mt-0" style={{ color: 'white' }}>Awards</h2>
+            <hr className="white-bg" />
+          </div>
+        </div>
+
         <ReactWow animation="fadeInUp" delay={`0.1s`}>
           <div className="counter">
-            <img src={award1} />
-            <img src={award2} />
-            <img src={award3} />
-            <img src={award4} />
+            <Slide className="slideshow">
+              <div className="each-slide-effect">
+                <img src={award1} />
+              </div>
+              <div className="each-slide-effect">
+                <img src={award2} />
+              </div>
+              <div className="each-slide-effect">
+                <img src={award3} />
+              </div>
+              <div className="each-slide-effect">
+                <img src={award4} />
+              </div>
+            </Slide>
           </div>
         </ReactWow>
       </div>
