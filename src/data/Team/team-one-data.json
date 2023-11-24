@@ -2,8 +2,8 @@
   {
     "id": 1,
     "image": "custom/sue.jpg",
-    "title": "team member",
-    "role": "Role",
+    "title": "Suzanne Merritt",
+    "role": "Owner/Master Trainer",
     "social": [
       {
         "id": 1,
@@ -25,8 +25,8 @@
   {
     "id": 2,
     "image": "custom/ashley.jpg",
-    "title": "team member",
-    "role": "role",
+    "title": "Ashli Minor",
+    "role": "Master Trainer",
     "social": [
       {
         "id": 1,
@@ -48,8 +48,8 @@
   {
     "id": 3,
     "image": "custom/erica.jpg",
-    "title": "team member",
-    "role": "role",
+    "title": "Erica",
+    "role": "Master Trainer",
     "social": [
       {
         "id": 1,
@@ -71,8 +71,8 @@
   {
     "id": 4,
     "image": "custom/Josh.jpg",
-    "title": "team member",
-    "role": "role",
+    "title": "Josh Conant",
+    "role": "Trainer",
     "social": [
       {
         "id": 1,
@@ -94,8 +94,8 @@
   {
     "id": 5,
     "image": "custom/karen.jpg",
-    "title": "team member",
-    "role": "role",
+    "title": "Karen Tibbetts",
+    "role": "Trainer",
     "social": [
       {
         "id": 1,
@@ -117,8 +117,8 @@
   {
     "id": 5,
     "image": "custom/ethan.jpg",
-    "title": "team member",
-    "role": "role",
+    "title": "Ethan Dean",
+    "role": "Trainer",
     "social": [
       {
         "id": 1,

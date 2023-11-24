@@ -2,6 +2,8 @@ import React from "react";
 import ReactWow from "react-wow";
 import award1 from '../../assets/images/custom/award1.png'
 import award2 from '../../assets/images/custom/award2.png'
+import award3 from '../../assets/images/custom/ward.png'
+import award4 from '../../assets/images/custom/scrn.png'
 
 
 const CounterTwo = ({ data, bg }) => (
@@ -31,8 +33,10 @@ const CounterTwo = ({ data, bg }) => (
 
         <ReactWow animation="fadeInUp" delay={`0.1s`}>
           <div className="counter">
-            <img src={award2} />
             <img src={award1} />
+            <img src={award2} />
+            <img src={award3} />
+            <img src={award4} />
           </div>
         </ReactWow>
       </div>

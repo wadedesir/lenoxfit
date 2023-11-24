@@ -52,9 +52,9 @@ const HomeFitness = () => {
         tagline=""
         backfont="Team"
       />
-      <ParallaxTwo image={imgParallax}>
+      {/* <ParallaxTwo image={imgParallax}>
         "Lorem ipsum lorem impsum lorem ipsum lorem ipsums"
-      </ParallaxTwo>
+      </ParallaxTwo> */}
       <ContactFive />
       {/* <FooterTwo /> */}
     </Loader>

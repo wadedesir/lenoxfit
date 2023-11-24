@@ -36,17 +36,6 @@ const ScheduleOne = ({ data, title }) => {
             )
           }
 
-          <ul>
-            <li><h4>NO STREET SHOES OR SNEAKERS ALLOWED IN AEROBICS STUDIO</h4></li>
-            <li><h4>PLEASE BE ON TIME FOR CLASS</h4></li>
-            <li><h4>FOR YOUR SAFETY, NO ONE IS ALLOWED IN CLASS IF IT HAS BEEN IN SESSION FOR MORE THAN 10 MINUTES</h4></li>
-            <li><h4>PLEASE WIPE DOWN THE SPINNING BIKES, MATS AND EQUIPMENT AFTER USE</h4></li>
-            <li><h4>ALL EQUIPMENT IS TO BE RETURNED TO DESIGNATED AREA AFTER USE</h4></li>
-            <li><h4>DO NOT REMOVE ANY EQUIPMENT FROM STUDIO</h4></li>
-            <li><h4>CLASSES AND INSTRUCTORS ARE SUBJECT TO CHANGE WITHOUT NOTICE</h4></li>
-            <li><h4>CLASSES ARE 45 MINUTES UNLESS OTHERWISE DESIGNATED</h4></li>
-          </ul>
-
         </div>
         {/* <div className="row mt-50">
         <div className="col-md-8 col-md-offset-2">

@@ -38,6 +38,12 @@ const WelcomeThree = ({ data }) => {
           <div className="each-slide-effect">
             <img src={images[2]} />
           </div>
+          <div className="each-slide-effect">
+            <img src={images[3]} />
+          </div>
+          <div className="each-slide-effect">
+            <img src={images[4]} />
+          </div>
         </Slide>
       </div>
 

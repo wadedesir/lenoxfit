@@ -50,16 +50,20 @@ const TeamThree = ({ data, title, tagline, backfont }) => {
         </div>
 
         <div className="row mt-50">
-          <div className="col-md-12 remove-padding">
+          <div className="col-md-12 remove-padding" >
             <Slider {...settings}>
               {data.map((member) => (
-                <div className="member" key={member.id}>
-                  <div className="team-member-container gallery-image-hover" >
+                <div className="member " key={member.id} >
+                  <div className="team-member-container gallery-image-hover ">
                     <img
                       src={require("../../assets/images/" + member.image)}
                       className="img-responsive"
+                      height={300}
                       alt={member.title}
                     />
+                    <div className="bg-flex bg-flex-cover" style={{ backgroundImage: `url('../../assets/images/custom/vidplaceholder.png')` }}>
+
+                    </div>
                     <div className="member-caption">
                       <div className="member-description">
                         <div className="member-description-wrap">
@@ -85,8 +89,8 @@ const TeamThree = ({ data, title, tagline, backfont }) => {
             </Slider>
           </div>
         </div>
-      </div>
-    </section>
+      </div >
+    </section >
   );
 };
 
