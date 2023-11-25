@@ -9,25 +9,23 @@ const AboutUsThree = ({ image, pathVideo, setToggler, toggler }) => (
           <div className="col-inner pt-70 pb-50 spacer white-color">
             <h3>Our Story</h3>
             <p className="mt-20">
-              Set in the heart of the Berkshires,
-              LENOX FIT is a modern fitness
-              and wellness center.
-              We offer professional personal
-              training, fitness classes as well as a state of the art recovery suite.
-              Our members enjoy use of top of the
-              line cardio & strength equipment
-              as well as free weights.
+              Set in the heart of the Berkshire Hills, Lenox Fit is owned and operated by Fitness Professional and longtime Lenox resident, Sue Merritt.  After working in the Fitness Industry for 7+ years, Sue bought Lenox Fit in 2014 and has transformed into a place that is comfortable and accessible for people of all ages and abilities.
             </p>
-            {/* <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
-              iaculis vehicula ipsum, sit amet eleifend risus dapibus in.
-            </p> */}
+            <p>
+              Open 7 days a week, Lenox Fit offers state of the art equipment, top notch Personal Training, Group Fitness classes, saunas, a Cryotherapy Center as well as a private Pilates studio and a Physical therapy Office.
+            </p>
+            <p>
+              Lenox Fit was chosen by the Small Business Administration as the Woman Owned Business of the year in Massachusetts in 2019 and has also been voted the Best Gym in the Berkshires in 2020, 2021, 2022 and 2023.
+            </p>
+            <p>
+              We offer a variety of membership options for both long term and short term gym enthusiasts. Stop in today and try a day on us!
+            </p>
           </div>
         </div>
 
 
         <div
-          className="col-md-4 col-sm-6 bg-flex-cover"
+          className="col-md-4 col-sm-6 bg-flex-cover "
           style={{ backgroundImage: `url(${placeholder})` }}
         >
           <div className="center-layout">

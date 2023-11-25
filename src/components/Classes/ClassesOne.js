@@ -7,7 +7,6 @@ const classNameesOne = ({ data, title }) => (
       <div className="row">
         <div className="col-sm-8 section-heading pb-0">
           <h2 className="mt-0">{title}</h2>
-          <h4 className="text-center">Our members enjoy full use of our facility, including fitness classes, locker rooms, saunas & shower facilities.</h4>
           <hr className="dark-bg" />
         </div>
       </div>

@@ -72,7 +72,7 @@ const FitnessSlider = () => {
                     <h1 className="font-700">Fit for Life</h1>
                   </div>
                   <h5 className="font-300 source-font">
-                    Fitness isn't about being better than someone else, it's about being better than you used to be. We've got what it takes to help you get there ❤️
+                    Fitness isn't about being better than someone else, it's about being better than you used to be. We've got what it takes to help you get there.
                   </h5>
                   <p className="text-center mt-30">
                     <a
