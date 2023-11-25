@@ -16,13 +16,13 @@ const PortfolioPhotography = ({ data }) => {
   };
 
   return (
-    <section className="white-bg pt-0 pb-0 dark-block">
+    <section className="white-bg pt-0 pb-0 dark-block" style={{ backgroundColor: 'rgb(30, 30, 30)' }}>
       <div className="container-fluid">
         <div className="row">
           <div id="grandy-folio" className="mosaic-gallery">
             <div className="gallery-wrapper">
               {data.map((item) => (
-                <div className={`gallery-item ${item.classes}`} key={item.id}>
+                <div className={`gallery-item ${item.classes}`} key={item.id} style={{ padding: '10px' }}>
                   <div className="portfolio gallery-image-hover text-center">
                     <div className="folio-overlay"></div>
                     <img

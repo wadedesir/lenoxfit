@@ -68,7 +68,7 @@ const TeamThree = ({ data, title, tagline, backfont }) => {
                             <a href={process.env.PUBLIC_URL}>{member.title}</a>
                           </h4>
                           <p className="member-subtitle">{member.role}</p>
-                          <ul className="member-icons">
+                          {/* <ul className="member-icons">
                             {member.social.map((icon) => (
                               <li className="social-icon" key={icon.id}>
                                 <a href={icon.path}>
@@ -76,7 +76,7 @@ const TeamThree = ({ data, title, tagline, backfont }) => {
                                 </a>
                               </li>
                             ))}
-                          </ul>
+                          </ul> */}
                         </div>
                       </div>
                     </div>

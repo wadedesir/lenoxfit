@@ -6,8 +6,8 @@ import Marker from "./Marker";
 const Map = ({ type, classes }) => {
   const defaultProps = {
     center: {
-      lat: 42.008315,
-      lng: -88.163807,
+      lat: 42.42513936337829,
+      lng: -73.26809783028729,
     },
     zoom: 12,
   };
@@ -197,11 +197,11 @@ const Map = ({ type, classes }) => {
         defaultCenter={defaultProps.center}
         defaultZoom={defaultProps.zoom}
         bootstrapURLKeys={{
-          key: "",
+          key: "AIzaSyCjkOtP7rVKVyja73PK7pWjkyELVC-IBMA",
         }}
         options={type === "3" ? style3 : style2}
       >
-        <Marker icon={pinImg} position={{ lat: -73.995763, lng: 40.716304 }} />
+        <Marker icon={pinImg} position={{ lat: defaultProps.center.lat, lng: defaultProps.center.lng }} />
       </GoogleMap>
     </div>
   );

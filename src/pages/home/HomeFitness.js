@@ -57,6 +57,7 @@ const HomeFitness = () => {
       </ParallaxTwo> */}
       <ContactFive />
       {/* <FooterTwo /> */}
+
     </Loader>
   );
 };

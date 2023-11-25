@@ -130,7 +130,7 @@ function App() {
             />
             <Route
               exact
-              path={`${process.env.PUBLIC_URL}/home-photography`}
+              path={`${process.env.PUBLIC_URL}/gallery`}
               component={HomePhotography}
             />
             <Route

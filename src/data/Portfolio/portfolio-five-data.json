@@ -1,71 +1,71 @@
 [
   {
     "id": 1,
-    "image": "gallery/gallery-img-4.jpg",
-    "title": "Studio Niccolai",
+    "image": "custom/gallery/img1.JPG",
+    "title": "",
     "path": "!#",
     "classes": "medium"
   },
   {
     "id": 2,
-    "image": "gallery/gallery-img-5.jpg",
-    "title": "Thenordic",
+    "image": "custom/gallery/img16.JPG",
+    "title": "",
     "path": "!#",
     "classes": "large"
   },
   {
     "id": 3,
-    "image": "gallery/gallery-img-6.jpg",
-    "title": "Coffee & Tea",
+    "image": "custom/gallery/img12.jpg",
+    "title": "",
     "path": "!#",
     "classes": "medium"
   },
   {
     "id": 4,
-    "image": "gallery/gallery-img-7.jpg",
-    "title": "Fach Bureau",
+    "image": "custom/gallery/img13.jpg",
+    "title": "",
     "path": "!#",
     "classes": "medium-thin"
   },
   {
     "id": 5,
-    "image": "gallery/gallery-img-8.jpg",
+    "image": "custom/gallery/img5.jpg",
     "title": "Collection",
     "path": "!#",
     "classes": "medium-fat"
   },
   {
     "id": 6,
-    "image": "gallery/gallery-img-9.jpg",
-    "title": "Bicker Janna",
+    "image": "custom/gallery/img6.jpg",
+    "title": "",
     "path": "!#",
     "classes": "medium-fat"
   },
   {
     "id": 7,
-    "image": "gallery/gallery-img-10.jpg",
-    "title": "Bicker Janna",
+    "image": "custom/gallery/img7.jpg",
+    "title": "",
     "path": "!#",
     "classes": "large-thin"
   },
   {
     "id": 8,
-    "image": "gallery/gallery-img-11.jpg",
-    "title": "Bicker Janna",
+    "image": "custom/gallery/img8.jpg",
+    "title": "",
     "path": "!#",
     "classes": "medium-thin"
   },
   {
     "id": 9,
-    "image": "gallery/gallery-img-12.jpg",
-    "title": "Bicker Janna",
+    "image": "custom/gallery/img9.jpg",
+    "title": "",
     "path": "!#",
     "classes": "medium"
   },
   {
     "id": 10,
-    "image": "gallery/gallery-img-13.jpg",
-    "title": "Bicker Janna",
+    "image": "custom/gallery/img10.jpg",
+    "title": "",
     "path": "!#",
     "classes": "medium-fat"
   }
