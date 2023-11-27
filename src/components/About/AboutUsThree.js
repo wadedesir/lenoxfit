@@ -71,10 +71,16 @@ const AboutUsThree = ({ image, pathVideo, setToggler, toggler }) => (
             <div>
               <h3 className="mt-20">Hours:</h3>
               <h4 style={{ color: 'white' }}>
-                Monday - Friday, 6:00 am - 7:30 pm
+                6:00 am - 7:30 pm
               </h4>
               <h4 style={{ color: 'white' }}>
-                Saturday 7:00 am - 3:00 pm, Sunday 7:00 am - 1:00 pm
+                Monday - Friday
+              </h4>
+              <h4 style={{ color: 'white' }}>
+                Saturday 7:00 am - 3:00 pm
+              </h4>
+              <h4 style={{ color: 'white' }}>
+                Sunday 7:00 am - 1:00 pm
               </h4>
             </div>
 

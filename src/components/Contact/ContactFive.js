@@ -46,11 +46,13 @@ const ContactFive = () => (
             <div className="">
               <div className="col-inner pt-10">
                 <h3>
-                  Monday - Friday, 6:00 am - 7:30 pm
+                  6:00 am - 7:30 pm
                 </h3>
+                <h3>Monday - Friday</h3>
                 <h3>
-                  Saturday 7:00 am - 3:00 pm, Sunday 7:00 am - 1:00 pm
+                  Saturday 7:00 am - 3:00 pm
                 </h3>
+                <h3>Sunday 7:00 am - 1:00 pm</h3>
               </div>
             </div>
 
