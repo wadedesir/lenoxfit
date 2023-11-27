@@ -1,5 +1,19 @@
 [
   {
+    "id": 11,
+    "image": "custom/gallery/front.jpg",
+    "title": "",
+    "path": "!#",
+    "classes": "medium-fat"
+  },
+  {
+    "id": 12,
+    "image": "custom/gallery/floor.jpg",
+    "title": "",
+    "path": "!#",
+    "classes": "medium-fat"
+  },
+  {
     "id": 1,
     "image": "custom/gallery/img1.JPG",
     "title": "",

@@ -1,5 +1,6 @@
 import React from "react";
 import placeholder from '../../assets/images/custom/vidplaceholder.png'
+import lulu from '../../assets/images/custom/LululemonAuthorizedRetailer.png'
 
 const AboutUsThree = ({ image, pathVideo, setToggler, toggler }) => (
   <section className="pt-0 pb-0 fitness-section" id="about">
@@ -66,6 +67,21 @@ const AboutUsThree = ({ image, pathVideo, setToggler, toggler }) => (
                 90 PITTSFIELD ROAD, LENOX, MA
               </span>
             </h3>
+
+            <div>
+              <h3 className="mt-20">Hours:</h3>
+              <h4 style={{ color: 'white' }}>
+                Monday - Friday, 6:00 am - 7:30 pm
+              </h4>
+              <h4 style={{ color: 'white' }}>
+                Saturday 7:00 am - 3:00 pm, Sunday 7:00 am - 1:00 pm
+              </h4>
+            </div>
+
+            <div>
+              <h4 style={{ color: 'white', marginTop: '15px' }}>lululemon authorized retailer</h4>
+              <img src={lulu} />
+            </div>
             {/* <p className="mt-20">
               <a
                 href={process.env.PUBLIC_URL}

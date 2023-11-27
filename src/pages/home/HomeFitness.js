@@ -24,14 +24,24 @@ import Services from '../../components/Custom/Services'
 import Recovery from "../../components/Custom/Recovery";
 import TeamThree from "../../components/Team/TeamThree";
 import dataTeam from "../../data/Team/team-one-data.json";
+import Bio from "../../components/Custom/Bio";
 
 const HomeFitness = () => {
   const [toggler, setToggler] = useState(false);
+  const [bioToggle, setBioToggle] = useState(false)
+  const [bioData, setBioData] = useState({})
+
+
   return (
     <Loader>
       <FsLightbox
         toggler={toggler}
         sources={["https://www.youtube.com/watch?app=desktop&v=NXUiu0fyYDs&feature=youtu.be&ab_channel=LenoxFit"]}
+      />
+      <Bio
+        toggle={bioToggle}
+        setToggle={setBioToggle}
+        data={bioData}
       />
       <NavbarSimpleSocial data={dataNavbar} />
       <FitnessSlider />
@@ -51,6 +61,8 @@ const HomeFitness = () => {
         title="Our Team"
         tagline=""
         backfont="Team"
+        setBioData={setBioData}
+        setToggle={setBioToggle}
       />
       {/* <ParallaxTwo image={imgParallax}>
         "Lorem ipsum lorem impsum lorem ipsum lorem ipsums"
