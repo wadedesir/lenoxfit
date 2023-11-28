@@ -57,7 +57,7 @@
   },
   {
     "id": 7,
-    "image": "custom/gallery/img7.jpg",
+    "image": "custom/gallery/img10.jpg",
     "title": "",
     "path": "!#",
     "classes": "large-thin"
@@ -78,9 +78,52 @@
   },
   {
     "id": 10,
-    "image": "custom/gallery/img10.jpg",
+    "image": "custom/gallery/img7.jpg",
     "title": "",
     "path": "!#",
     "classes": "medium-fat"
+  },
+  {
+    "id": 13,
+    "image": "custom/gallery/IMG_18.jpg",
+    "title": "",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 14,
+    "image": "custom/gallery/IMG_19.jpg",
+    "title": "",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 15,
+    "image": "custom/gallery/IMG_20.jpg",
+    "title": "",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 16,
+    "image": "custom/gallery/IMG_21.jpg",
+    "title": "",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 17,
+    "image": "custom/gallery/IMG_22.jpg",
+    "title": "",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 18,
+    "image": "custom/gallery/IMG_23.jpg",
+    "title": "",
+    "path": "!#",
+    "classes": "medium"
   }
+  
 ]

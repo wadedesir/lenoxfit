@@ -1,7 +1,7 @@
 import React from "react";
 import Slider from "react-slick";
 
-const TeamThree = ({ data, title, tagline, backfont, setBioData, setToggle }) => {
+const TeamThree = ({ data, title, tagline, backfont, setId, setToggle }) => {
   const settings = {
     className: "team-slider",
     slidesToShow: 4,
@@ -85,7 +85,7 @@ const TeamThree = ({ data, title, tagline, backfont, setBioData, setToggle }) =>
                     <a
                       className="btn btn-dark font-500 btn-md btn-square remove-margin"
                       onClick={() => {
-                        setBioData(member.bio)
+                        setId(member.id)
                         setToggle(true)
                       }}
                     >

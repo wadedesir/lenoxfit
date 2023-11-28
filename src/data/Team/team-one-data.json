@@ -22,8 +22,8 @@
       }
     ],
     "bio":{
-      "text": "test",
-      "certs": "test2"
+      "text": ["Sue started her Fitness Career at Lenox Fitness Center and Spa in 2007 and worked there as an Instructor and Trainer until December 31, 2014, when she purchased the business and rebranded it as Lenox Fit. She has been teaching classes and training clients for almost 17 years and is passionate about working side by side with her team of dedicated professionals.", "Sue competed in Kettlebell lifting prior to beginning her work as a fitness professional and worked out regularly with a trainer.  She earned her first certification from AKC (the American Kettlebell Club), followed by her SPINNING Certification, her group exercise certification, her STEP Aerobics certification and her in 2010, she became a Personal Trainer through WITS (which is an ACSM certified Program).  Sue received her Bachelor’s Degree in Sociology from Hartwick College in 1989.", "Sue is a survivor of stage 3 breast cancer (2012) and since then, has raised over $260,000.00 for cancer research through the Pan Mass Challenge. She is an avid cyclist, a wife and mom and has lived in Lenox for over 30 years.  She supports local sports teams, local races and community events and gives regularly to the local food pantry.  She is a hands on leader and is dedicated to her team, her family, her business and her community."],
+      "certs": []
     }
   },
   {
@@ -49,8 +49,8 @@
       }
     ],
     "bio":{
-      "text": "Ashli Minor is a registered dietitian nutritionist and personal trainer/fitness instructor who has been with Lenox Fit since 2014. Ashli works locally at a community based health care center where she counsels adults and children, with a special focus on women’s health and integrative health care. Ashli teaches and trains at Lenox Fit part time. ",
-      "certs": ""
+      "text": ["Ashli Minor is a registered dietitian nutritionist and personal trainer/fitness instructor who has been with Lenox Fit since 2014. Ashli works locally at a community based health care center where she counsels adults and children, with a special focus on women’s health and integrative health care. Ashli teaches and trains at Lenox Fit part time. "],
+      "certs": []
     }
   },
   {
@@ -76,8 +76,8 @@
       }
     ],
     "bio":{
-      "text": "Erica Pelton is a Functional Training Specialist and Personal Trainer that specializes in motivating people to discover a lifestyle of healthy living without pain, movement restrictions and moving with overall confidence. Whether you are brand new to fitness, working through an injury, or trying to reach the next level, Erica will get you there by taking the guesswork out of training and customizing your program based on your needs, goals, and desires. Erica has extensive experience with clients who have joint replacement and injury, mobility and postural concerns as well as weight loss and body composition goals. \n\nErica was an IFPA, NGA Pro Figure Bodybuilder and USBF Pro-Qualified Bodybuilder. Fitness has always played a large role in Erica's life beginning with a competitive scholastic career during which she was a participant in NYS's Empire State Games. It was during those years in her childhood that Erica discovered the importance of self-motivation and setting realistic goals. Two skills that she firmly believes can help not only professional and amateur athletes achieve success, but anyone who is trying to improve his or her quality of life with proper exercise and nutrition. \n\nErica is excited to share her passion for healthy living with you today to help you make your fitness goals a reality",
-      "certs": "National Academy of Sports Medicine (NASM) Personal Trainer certification Functional Movement Systems (FMS) certification Level I\nAmerican Council on Exercise Functional Training Specialist\nAnatomy Trains in Training Course\nPerform Better Conference\nNASM Optima Conference"
+      "text": ["Erica Pelton is a Functional Training Specialist and Personal Trainer that specializes in motivating people to discover a lifestyle of healthy living without pain, movement restrictions and moving with overall confidence. Whether you are brand new to fitness, working through an injury, or trying to reach the next level, Erica will get you there by taking the guesswork out of training and customizing your program based on your needs, goals, and desires. Erica has extensive experience with clients who have joint replacement and injury, mobility and postural concerns as well as weight loss and body composition goals.", "Erica was an IFPA, NGA Pro Figure Bodybuilder and USBF Pro-Qualified Bodybuilder. Fitness has always played a large role in Erica's life beginning with a competitive scholastic career during which she was a participant in NYS's Empire State Games. It was during those years in her childhood that Erica discovered the importance of self-motivation and setting realistic goals. Two skills that she firmly believes can help not only professional and amateur athletes achieve success, but anyone who is trying to improve his or her quality of life with proper exercise and nutrition.", "Erica is excited to share her passion for healthy living with you today to help you make your fitness goals a reality"],
+      "certs": ["National Academy of Sports Medicine (NASM) Personal Trainer certification Functional Movement Systems (FMS) certification Level I", "American Council on Exercise Functional Training Specialist", "Anatomy Trains in Training Course", "Perform Better Conference\nNASM Optima Conference"]
     }
   },
   {
@@ -103,8 +103,8 @@
       }
     ],
     "bio":{
-      "text": "As a former multi-sport athlete with over 10 years of Olympic Weightlifting and Sports performance experience Josh brings the mentality of a seasoned athlete to the Lenox Fitness team and we are excited to have him! Along with the competitive mindset of an athlete Josh also bring’s the knowledge he’s acquired over the course of his journey to obtain a Bachelor’s Degree in Applied Exercise Science from one of the best programs in the country, Springfield College. \n\n'Even though I love working with Athletes because it allows me to explore the complexities of high level training programs in many ways I enjoy working with normal everyday people even more. I think that comes down to the fact that some of the simplest things, the things that seem obvious to me are the things that can end up making an enormous difference in someone’s life. Which is ultimately why I chose this career, to help people lead healthier, and happier lives.'",
-      "certs": "Bachelor’s degree in Exercise Science from Springfield College (2020) \nACE Certified Personal Trainer (2017 - Present) \n10+ years of Olympic Weightlifting and Sports Performance training experience \nCPR / AED Certified"
+      "text": ["As a former multi-sport athlete with over 10 years of Olympic Weightlifting and Sports performance experience Josh brings the mentality of a seasoned athlete to the Lenox Fitness team and we are excited to have him! Along with the competitive mindset of an athlete Josh also bring’s the knowledge he’s acquired over the course of his journey to obtain a Bachelor’s Degree in Applied Exercise Science from one of the best programs in the country, Springfield College.", "Even though I love working with Athletes because it allows me to explore the complexities of high level training programs in many ways I enjoy working with normal everyday people even more. I think that comes down to the fact that some of the simplest things, the things that seem obvious to me are the things that can end up making an enormous difference in someone’s life. Which is ultimately why I chose this career, to help people lead healthier, and happier lives.'"],
+      "certs": ["Bachelor’s degree in Exercise Science from Springfield College (2020) \nACE Certified Personal Trainer (2017 - Present)", "10+ years of Olympic Weightlifting and Sports Performance training experience", "CPR / AED Certified"]
     }
   },
   {
@@ -130,12 +130,12 @@
       }
     ],
     "bio":{
-      "text": "Karen was born and raised in the Berkshires. After graduating with a degree in Finance from the Isenberg School of Management at UMass Amherst, she moved to the Boston area with her husband, Gary. After living in Boston for 10 years, they moved back to the Berkshires to start and raise a family of their own. \n\nIn 2022 Karen became a Certified Person Trainer, and enjoys working with clients of all ages, focusing on Functional Fitness and Balance. Karen hopes her enthusiasm and love of fitness will help her clients stay committed to their journey and become more comfortable in the gym setting. \n\nKaren is a lifelong fitness enthusiast and accomplished runner. Having raced every distance from the mile to the marathon, she also enjoys cycling, hiking, yoga, and strength training. \n\nToday, Karen and Gary enjoy walking their three dogs and visiting their adult children in the Boston area.",
-      "certs": ""
+      "text": ["Karen was born and raised in the Berkshires. After graduating with a degree in Finance from the Isenberg School of Management at UMass Amherst, she moved to the Boston area with her husband, Gary. After living in Boston for 10 years, they moved back to the Berkshires to start and raise a family of their own.", "In 2022 Karen became a Certified Person Trainer, and enjoys working with clients of all ages, focusing on Functional Fitness and Balance. Karen hopes her enthusiasm and love of fitness will help her clients stay committed to their journey and become more comfortable in the gym setting.", "Karen is a lifelong fitness enthusiast and accomplished runner. Having raced every distance from the mile to the marathon, she also enjoys cycling, hiking, yoga, and strength training.", "Today, Karen and Gary enjoy walking their three dogs and visiting their adult children in the Boston area."],
+      "certs": []
     }
   },
   {
-    "id": 5,
+    "id": 6,
     "image": "custom/ethan.jpg",
     "title": "Ethan Dean",
     "role": "Trainer",
@@ -157,8 +157,8 @@
       }
     ],
     "bio":{
-      "text": "Ethan became NASM CPT certified in 2022 and began looking into further education. \nEthan was a student athlete at Monument Mountain Regional High School and was involved in the school’s football team and was also the  captain of the swim team for his Senior year.  After graduation in 2020, he began to follow his passion for weight training. \n Ethan became interested in personal training through his workouts at the gym, and he began to feel like he home. Friends would approach him in the gym and ask for advice and be regularly began to help them reach their goals. He felt accomplished sharing his knowledge of weight lifting with friends and began to explore the possibility of using his expertise to inspire people to join the gym. \nAfter becoming certified, he created Ethan Dean Fitness (EDF) to reach out to a broader audience online. Ethan has used this platform for clients that are interested in online coaching and nutrition assistance. His program is based in strength and hypertrophy and can be applied to any level of fitness, from beginner to advanced. \nEthan began at Lenox Fit in 2023 and has expanded his knowledgeable to include functional training and corrective exercise.",
-      "certs": ""
+      "text": ["Ethan became NASM CPT certified in 2022 and began looking into further education.", "Ethan was a student athlete at Monument Mountain Regional High School and was involved in the school’s football team and was also the  captain of the swim team for his Senior year.  After graduation in 2020, he began to follow his passion for weight training.", "Ethan became interested in personal training through his workouts at the gym, and he began to feel like he home. Friends would approach him in the gym and ask for advice and be regularly began to help them reach their goals. He felt accomplished sharing his knowledge of weight lifting with friends and began to explore the possibility of using his expertise to inspire people to join the gym.", "After becoming certified, he created Ethan Dean Fitness (EDF) to reach out to a broader audience online. Ethan has used this platform for clients that are interested in online coaching and nutrition assistance. His program is based in strength and hypertrophy and can be applied to any level of fitness, from beginner to advanced.", "Ethan began at Lenox Fit in 2023 and has expanded his knowledgeable to include functional training and corrective exercise."],
+      "certs": []
     }
   }
 ]

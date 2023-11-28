@@ -7449,15 +7449,14 @@ html.fp-enabled,
   height: 100vh;
   top: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.65);
   z-index: 1000;
   justify-content: center;
   align-items: center;
   padding: 35px;
-  overflow: hidden;
+  overflow-y: scroll;
 }
 
-.bio-modal a{
+/* .bio-modal a{
   font-size: 25px;
   color: red;
   position: absolute;
@@ -7465,17 +7464,17 @@ html.fp-enabled,
   top: 20px;
   cursor: pointer;
   z-index: 1001;
-}
+} */
 
-.bio-modal div{
+/* .bio-modal div{
   background-color: white;
   padding: 10px;
   border-radius: 10px;
   max-height: 80vh;
   overflow-y: scroll;
-}
+} */
 
-.bio-modal pre{
+/* .bio-modal pre{
   background-color: white;
   border: none;
   padding: none;
@@ -7483,7 +7482,7 @@ html.fp-enabled,
   overflow-x: visible;
   white-space: pre-wrap;
   line-height: 18px;
-}
+} */
 
 /* Custom Responsive */
 

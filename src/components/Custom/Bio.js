@@ -1,19 +1,38 @@
 import React from 'react';
 
-function Bio({ toggle, setToggle, data }) {
+function Bio({ toggle, setToggle, id, team }) {
 
+    const person = team.filter(item => item.id == id)[0]
     return (
 
-        <div className='bio-modal' style={{ display: `${toggle ? 'flex' : 'none'}` }} >
-            <div className='mt-20'>
-                <h3 className='mt-10'>About</h3>
-                <pre>{data.text}</pre>
+        <section className='bio-modal' style={{ display: `${toggle ? 'block' : 'none'}` }} >
+            <div className='container'>
+                <div className="row">
+                    <div className="col-sm-8 section-heading pb-0">
+                        <h2 className="mt-0">{person.title}</h2>
+                        <h3>{person.role}</h3>
+                        <hr className="dark-bg" />
+                    </div>
+                </div>
+                <div className=''>
+                    <h3 className=''>About</h3>
+                    {person.bio.text.map(item => <p>{item}</p>)}
 
-                <h3>Certifications and Training</h3>
-                <pre>{data.certs}</pre>
+                    {person.bio.certs.length > 0 ? <h3 style={{ marginTop: '20px' }}>Certifications and Training</h3> : ''}
+                    {person.bio.certs.map(item => <p>{item}</p>)}
+
+                </div>
+                <p className="mt-20">
+                    <a
+                        className="btn btn-dark font-500 btn-md btn-square remove-margin"
+                        onClick={() => setToggle(false)}
+                    >
+                        Exit
+                    </a>
+                </p>
+
             </div>
-            <a onClick={() => setToggle(false)}>✖</a>
-        </div>
+        </section>
     );
 }
 

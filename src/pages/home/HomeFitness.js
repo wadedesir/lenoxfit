@@ -29,7 +29,7 @@ import Bio from "../../components/Custom/Bio";
 const HomeFitness = () => {
   const [toggler, setToggler] = useState(false);
   const [bioToggle, setBioToggle] = useState(false)
-  const [bioData, setBioData] = useState({})
+  const [id, setId] = useState(1)
 
 
   return (
@@ -41,7 +41,8 @@ const HomeFitness = () => {
       <Bio
         toggle={bioToggle}
         setToggle={setBioToggle}
-        data={bioData}
+        id={id}
+        team={dataTeam}
       />
       <NavbarSimpleSocial data={dataNavbar} />
       <FitnessSlider />
@@ -61,7 +62,7 @@ const HomeFitness = () => {
         title="Our Team"
         tagline=""
         backfont="Team"
-        setBioData={setBioData}
+        setId={setId}
         setToggle={setBioToggle}
       />
       {/* <ParallaxTwo image={imgParallax}>
