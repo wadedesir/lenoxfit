@@ -19,6 +19,9 @@ const AboutUsThree = ({ image, pathVideo, setToggler, toggler }) => (
               Lenox Fit was chosen by the Small Business Administration as the Woman Owned Business of the year in Massachusetts in 2019 and has also been voted the Best Gym in the Berkshires in 2020, 2021, 2022 and 2023.
             </p>
             <p>
+              Owner Sue Merritt was voted Best Personal Trainer in the Berkshires in 2017.
+            </p>
+            <p>
               We offer a variety of membership options for both long term and short term gym enthusiasts. Stop in today and try a day on us!
             </p>
           </div>

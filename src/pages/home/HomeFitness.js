@@ -56,7 +56,7 @@ const HomeFitness = () => {
       <CounterTwo data={dataCounter} bg="dark" />
       <ClassesOne data={dataClasses} title="Our Prices" />
       <Recovery title="Recovery Suite" />
-      <ScheduleOne data={dataSchedule} title="The Schedule" />
+      <ScheduleOne data={dataSchedule} title="Class Schedule" />
       <TeamThree
         data={dataTeam}
         title="Our Team"
