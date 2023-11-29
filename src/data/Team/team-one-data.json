@@ -160,5 +160,32 @@
       "text": ["Ethan became NASM CPT certified in 2022 and began looking into further education.", "Ethan was a student athlete at Monument Mountain Regional High School and was involved in the school’s football team and was also the  captain of the swim team for his Senior year.  After graduation in 2020, he began to follow his passion for weight training.", "Ethan became interested in personal training through his workouts at the gym, and he began to feel like he was home. Friends would approach him in the gym and ask for advice and be regularly began to help them reach their goals. He felt accomplished sharing his knowledge of weight lifting with friends and began to explore the possibility of using his expertise to inspire people to join the gym.", "After becoming certified, he created Ethan Dean Fitness (EDF) to reach out to a broader audience online. Ethan has used this platform for clients that are interested in online coaching and nutrition assistance. His program is based in strength and hypertrophy and can be applied to any level of fitness, from beginner to advanced.", "Ethan began at Lenox Fit in 2023 and has expanded his knowledgeable to include functional training and corrective exercise."],
       "certs": []
     }
+  },
+  {
+    "id": 7,
+    "image": "custom/mike.jpg",
+    "title": "Mike Summers",
+    "role": "Trainer",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 2,
+        "path": "!#",
+        "title": "twitter"
+      },
+      {
+        "id": 3,
+        "path": "!#",
+        "title": "linkedin"
+      }
+    ],
+    "bio":{
+      "text": ["..."],
+      "certs": []
+    }
   }
 ]

@@ -16,10 +16,7 @@ const AboutUsThree = ({ image, pathVideo, setToggler, toggler }) => (
               Open 7 days a week, Lenox Fit offers state of the art equipment, top notch Personal Training, Group Fitness classes, saunas, a Cryotherapy Center as well as a private Pilates studio and a Physical therapy Office.
             </p>
             <p>
-              Lenox Fit was chosen by the Small Business Administration as the Woman Owned Business of the year in Massachusetts in 2019 and has also been voted the Best Gym in the Berkshires in 2020, 2021, 2022 and 2023.
-            </p>
-            <p>
-              Owner Sue Merritt was voted Best Personal Trainer in the Berkshires in 2017.
+              Lenox Fit was chosen by the Small Business Administration as the Woman Owned Business of the year in Massachusetts in 2019 and has also been voted the Best Gym in the Berkshires in 2020, 2021, 2022 and 2023. Owner Sue Merritt was also voted Best Personal Trainer in the Berkshires in 2017.
             </p>
             <p>
               We offer a variety of membership options for both long term and short term gym enthusiasts. Stop in today and try a day on us!

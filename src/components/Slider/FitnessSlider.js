@@ -76,7 +76,7 @@ const FitnessSlider = () => {
                   </h5>
                   <p className="text-center mt-30">
                     <a
-                      href={process.env.PUBLIC_URL}
+                      href="#schedule"
                       className="btn btn-dark font-500 btn-md btn-square remove-margin"
                     >
                       Start Today
