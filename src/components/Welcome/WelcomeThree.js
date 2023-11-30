@@ -27,7 +27,7 @@ const WelcomeThree = ({ data }) => {
 
   return (
     <section className="white-bg">
-      <div className="col-md-6 col-sm-4 bg-flex bg-flex-cover slideshow-container" style={{ marginBottom: 0 }}>
+      <div id="slideshow-offerings" className="col-md-6 col-sm-4 bg-flex bg-flex-cover slideshow-container" style={{ marginBottom: 1 }}>
         <Slide className="slideshow">
           <div className="each-slide-effect">
             <img src={images[0]} />

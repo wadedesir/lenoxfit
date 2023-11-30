@@ -7486,6 +7486,12 @@ html.fp-enabled,
 
 /* Custom Responsive */
 
+@media screen and (max-width: 765px) {
+  #slideshow-offerings{
+    position: relative !important;
+  }
+}
+
 @media screen and (max-width: 1000px) {
   .half-logo{
     width: 50%;
