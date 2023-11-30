@@ -45,6 +45,9 @@ const CounterTwo = ({ data, bg }) => (
           <div className="counter">
             <Slide className="slideshow">
               <div className="each-slide-effect">
+                <img src={award5} />
+              </div>
+              <div className="each-slide-effect">
                 <img src={award1} />
               </div>
               <div className="each-slide-effect">
@@ -55,9 +58,6 @@ const CounterTwo = ({ data, bg }) => (
               </div>
               <div className="each-slide-effect">
                 <img src={award4} />
-              </div>
-              <div className="each-slide-effect">
-                <img src={award5} />
               </div>
             </Slide>
           </div>
