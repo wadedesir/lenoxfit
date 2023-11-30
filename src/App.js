@@ -88,6 +88,12 @@ function App() {
 
             <Route
               exact
+              path={`${process.env.PUBLIC_URL}/gallery`}
+              component={HomePhotography}
+            />
+
+            {/* <Route
+              exact
               path={`${process.env.PUBLIC_URL}/demos`}
               component={Demos}
             />
@@ -128,11 +134,7 @@ function App() {
               path={`${process.env.PUBLIC_URL}/home-architecture`}
               component={HomeArchitecture}
             />
-            <Route
-              exact
-              path={`${process.env.PUBLIC_URL}/gallery`}
-              component={HomePhotography}
-            />
+
             <Route
               exact
               path={`${process.env.PUBLIC_URL}/home-resume`}
@@ -415,7 +417,7 @@ function App() {
               exact
               path={`${process.env.PUBLIC_URL}/team-member`}
               component={TeamMembersPage}
-            />
+            /> */}
 
             <Route component={Page404} />
 
