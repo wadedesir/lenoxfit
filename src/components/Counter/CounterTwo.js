@@ -8,7 +8,7 @@ import award1 from '../../assets/images/custom/award1.png'
 import award2 from '../../assets/images/custom/award2.png'
 import award3 from '../../assets/images/custom/ward.png'
 import award4 from '../../assets/images/custom/scrn.png'
-
+import award5 from '../../assets/images/custom/award2017.png'
 
 const CounterTwo = ({ data, bg }) => (
   <section className={(bg === "dark" ? "dark" : "white") + "-bg pt-10 pb-10"}>
@@ -55,6 +55,9 @@ const CounterTwo = ({ data, bg }) => (
               </div>
               <div className="each-slide-effect">
                 <img src={award4} />
+              </div>
+              <div className="each-slide-effect">
+                <img src={award5} />
               </div>
             </Slide>
           </div>
