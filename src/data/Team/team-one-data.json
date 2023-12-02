@@ -56,7 +56,7 @@
   {
     "id": 3,
     "image": "custom/erica.jpg",
-    "title": "Erica",
+    "title": "Erica Pelton",
     "role": "Master Trainer",
     "social": [
       {
@@ -76,8 +76,8 @@
       }
     ],
     "bio":{
-      "text": ["Erica Pelton is a Functional Training Specialist and Personal Trainer that specializes in motivating people to discover a lifestyle of healthy living without pain, movement restrictions and moving with overall confidence. Whether you are brand new to fitness, working through an injury, or trying to reach the next level, Erica will get you there by taking the guesswork out of training and customizing your program based on your needs, goals, and desires. Erica has extensive experience with clients who have joint replacement and injury, mobility and postural concerns as well as weight loss and body composition goals.", "Erica was an IFPA, NGA Pro Figure Bodybuilder and USBF Pro-Qualified Bodybuilder. Fitness has always played a large role in Erica's life beginning with a competitive scholastic career during which she was a participant in NYS's Empire State Games. It was during those years in her childhood that Erica discovered the importance of self-motivation and setting realistic goals. Two skills that she firmly believes can help not only professional and amateur athletes achieve success, but anyone who is trying to improve his or her quality of life with proper exercise and nutrition.", "Erica is excited to share her passion for healthy living with you today to help you make your fitness goals a reality"],
-      "certs": ["National Academy of Sports Medicine (NASM) Personal Trainer certification Functional Movement Systems (FMS) certification Level I", "American Council on Exercise Functional Training Specialist", "Anatomy Trains in Training Course", "Perform Better Conference\nNASM Optima Conference"]
+      "text": ["Erica Pelton is a Functional Training Specialist and Personal Trainer who specializes in motivating people to discover a lifestyle of healthy living without pain, movement restrictions and moving with overall confidence. Whether you are brand new to fitness, working through an injury, or trying to reach the next level, Erica will get you there by taking the guesswork out of training and customizing your program based on your needs, goals, and desires. Erica has extensive experience with clients who have joint replacement and injury, mobility and postural concerns as well as weight loss and body composition goals.", "Erica was a USBF Pro-Qualified Bodybuilder, NGA and IFPA Pro Figure Bodybuilder. Fitness has always played a large role in Erica's life beginning with a competitive scholastic career during which she was a participant in New York State's Empire State Games. It was during those years in her childhood that Erica discovered the importance of self-motivation and setting realistic goals. Erica teaches her clients to embrace these skills as she firmly believes they can help not only professional and amateur athletes achieve success, but anyone who is trying to improve his or her quality of life with proper exercise and nutrition.", "Erica is excited to share her passion for healthy living with you today to help you make your fitness goals a reality!"],
+      "certs": ["National Academy of Sports Medicine (NASM) Personal Trainer certification", "Functional Movement Systems (FMS) certification Level I", "American Council on Exercise Functional Training Specialist", "Anatomy Trains in Training Course", "Perform Better Conference\nNASM Optima Conference"]
     }
   },
   {
@@ -184,7 +184,7 @@
       }
     ],
     "bio":{
-      "text": ["Michael Summers was born and raised in White Plains NY and is the youngest of four siblings.  Mike attended White Plains High School from 1992-1996 and was a 3 sport athlete, playing football basketball and track. Mike was Inducted in the White Plains Hall of Fame in 2023. Mike attended The Worcester Academy in 1997 and then went on to attend  the University of New Haven, where he studied criminal justice. Mike then had an opportunity to tryout for some NFL teams which landed him in arena football for five years. Arena football lead Mike into his love of training and helping others accomplish their fitness goals. Mike has worked in the fitness since 2005. His foundation in fitness started with calisthenics later transitioning into weight training and functional fitness. His hobbies are reading, bowling, and staying active. He has a 15yr old daughter Kyana Summers. Mike is certified as a Personal Trainer through ISSA (International Sports Sciences Association)."],
+      "text": ["Michael Summers was born and raised in White Plains NY and is the youngest of four siblings.  Mike attended White Plains High School from 1992-1996 and was a 3 sport athlete, playing football basketball and track. Mike was Inducted in the White Plains Hall of Fame in 2023. Mike attended The Worcester Academy in 1997 and then went on to attend  the University of New Haven, where he studied criminal justice. Mike then had an opportunity to tryout for some NFL teams which landed him in arena football for five years. Arena football lead Mike into his love of training and helping others accomplish their fitness goals. Mike has worked in the fitness industry since 2005. His foundation in fitness started with calisthenics later transitioning into weight training and functional fitness. His hobbies are reading, bowling, and staying active. He has a 15yr old daughter Kyana Summers. Mike is certified as a Personal Trainer through ISSA (International Sports Sciences Association)."],
       "certs": []
     }
   }
