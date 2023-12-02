@@ -10,7 +10,7 @@ const AboutUsThree = ({ image, pathVideo, setToggler, toggler }) => (
           <div className="col-inner pt-70 pb-50 spacer white-color">
             <h3>Our Story</h3>
             <p className="mt-20">
-              Set in the heart of the Berkshire Hills, Lenox Fit is owned and operated by Fitness Professional and longtime Lenox resident, Sue Merritt.  After working in the Fitness Industry for 7+ years, Sue bought Lenox Fit in 2014 and has transformed into a place that is comfortable and accessible for people of all ages and abilities.
+              Set in the heart of the Berkshire Hills, Lenox Fit is owned and operated by Fitness Professional and longtime Lenox resident, Sue Merritt.  After working in the Fitness Industry for 7+ years, Sue bought Lenox Fit in 2014 and has transformed it into a place that is comfortable and accessible for people of all ages and abilities.
             </p>
             <p>
               Open 7 days a week, Lenox Fit offers state of the art equipment, top notch Personal Training, Group Fitness classes, saunas, a Cryotherapy Center as well as a private Pilates studio and a Physical therapy Office.
