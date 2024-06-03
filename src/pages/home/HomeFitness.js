@@ -26,6 +26,8 @@ import TeamThree from "../../components/Team/TeamThree";
 import dataTeam from "../../data/Team/team-one-data.json";
 import Bio from "../../components/Custom/Bio";
 
+import CounterOne from "../../components/Counter/CounterOne";
+
 const HomeFitness = () => {
   const [toggler, setToggler] = useState(false);
   const [bioToggle, setBioToggle] = useState(false)

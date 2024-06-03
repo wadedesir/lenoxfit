@@ -7497,3 +7497,14 @@ html.fp-enabled,
     width: 50%;
   } 
 }
+
+.gallery-wrapper {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: center !important;
+}
+
+.gallery-item {
+  margin: 10px !important; /* adjust the margin as needed */
+  width: calc(33.33% - 20px) !important; /* adjust the width as needed */
+}

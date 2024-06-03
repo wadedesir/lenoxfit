@@ -14,16 +14,6 @@ import img5 from '../../assets/images/custom/equipment5.jpg'
 const WelcomeThree = ({ data }) => {
 
   const images = [img1, img2, img3, img4, img5]
-  // const [image, setImage] = React.useState(images[4])
-  // let curr = 0
-
-  // const updateImages = () => {
-  //   console.log(curr)
-  //   setImage(images[curr])
-  //   curr = curr + 1
-  // }
-
-  // setInterval(updateImages, 5000)
 
   return (
     <section className="white-bg">
